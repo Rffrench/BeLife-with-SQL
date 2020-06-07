@@ -1,0 +1,832 @@
+C:\Users\cetecom\source\repos\BeLife\BeLife\obj\Debug\ProyectoBeLife.csprojResolveAssemblyReference.cache
+C:\Users\cetecom\source\repos\BeLife\BeLife\obj\Debug\BeLife.AgregarCliente.resources
+C:\Users\cetecom\source\repos\BeLife\BeLife\obj\Debug\BeLife.MainPage.resources
+C:\Users\cetecom\source\repos\BeLife\BeLife\obj\Debug\BeLife.MainPage1.resources
+C:\Users\cetecom\source\repos\BeLife\BeLife\obj\Debug\BeLife.Properties.Resources.resources
+C:\Users\cetecom\source\repos\BeLife\BeLife\obj\Debug\ProyectoBeLife.csproj.GenerateResource.Cache
+C:\Users\cetecom\source\repos\BeLife\BeLife\obj\Debug\ProyectoBeLife.csproj.CoreCompileInputs.cache
+C:\Users\cetecom\source\repos\BeLife\BeLife\bin\Debug\BeLife.exe.config
+C:\Users\cetecom\source\repos\BeLife\BeLife\bin\Debug\BeLife.exe
+C:\Users\cetecom\source\repos\BeLife\BeLife\bin\Debug\BeLife.pdb
+C:\Users\cetecom\source\repos\BeLife\BeLife\obj\Debug\BeLife.exe
+C:\Users\cetecom\source\repos\BeLife\BeLife\obj\Debug\BeLife.pdb
+D:\Weas de la u\segundo año\primer semestre\Desarrollo y gestion de software\BeLife\BeLife\bin\Debug\BeLife.exe.config
+D:\Weas de la u\segundo año\primer semestre\Desarrollo y gestion de software\BeLife\BeLife\bin\Debug\BeLife.exe
+D:\Weas de la u\segundo año\primer semestre\Desarrollo y gestion de software\BeLife\BeLife\bin\Debug\BeLife.pdb
+D:\Weas de la u\segundo año\primer semestre\Desarrollo y gestion de software\BeLife\BeLife\obj\Debug\ProyectoBeLife.csprojResolveAssemblyReference.cache
+D:\Weas de la u\segundo año\primer semestre\Desarrollo y gestion de software\BeLife\BeLife\obj\Debug\BeLife.VentanaAgregarCliente.resources
+D:\Weas de la u\segundo año\primer semestre\Desarrollo y gestion de software\BeLife\BeLife\obj\Debug\BeLife.VentanaClientes.resources
+D:\Weas de la u\segundo año\primer semestre\Desarrollo y gestion de software\BeLife\BeLife\obj\Debug\BeLife.VentanaMain.resources
+D:\Weas de la u\segundo año\primer semestre\Desarrollo y gestion de software\BeLife\BeLife\obj\Debug\BeLife.Properties.Resources.resources
+D:\Weas de la u\segundo año\primer semestre\Desarrollo y gestion de software\BeLife\BeLife\obj\Debug\ProyectoBeLife.csproj.GenerateResource.cache
+D:\Weas de la u\segundo año\primer semestre\Desarrollo y gestion de software\BeLife\BeLife\obj\Debug\ProyectoBeLife.csproj.CoreCompileInputs.cache
+D:\Weas de la u\segundo año\primer semestre\Desarrollo y gestion de software\BeLife\BeLife\obj\Debug\BeLife.exe
+D:\Weas de la u\segundo año\primer semestre\Desarrollo y gestion de software\BeLife\BeLife\obj\Debug\BeLife.pdb
+E:\Archivos C# Duoc\BeLife\BeLife\bin\Debug\BeLife.exe.config
+E:\Archivos C# Duoc\BeLife\BeLife\bin\Debug\BeLife.exe
+E:\Archivos C# Duoc\BeLife\BeLife\bin\Debug\BeLife.pdb
+E:\Archivos C# Duoc\BeLife\BeLife\obj\Debug\ProyectoBeLife.csprojResolveAssemblyReference.cache
+E:\Archivos C# Duoc\BeLife\BeLife\obj\Debug\BeLife.VentanaAgregarCliente.resources
+E:\Archivos C# Duoc\BeLife\BeLife\obj\Debug\BeLife.VentanaClientes.resources
+E:\Archivos C# Duoc\BeLife\BeLife\obj\Debug\BeLife.VentanaMain.resources
+E:\Archivos C# Duoc\BeLife\BeLife\obj\Debug\BeLife.Properties.Resources.resources
+E:\Archivos C# Duoc\BeLife\BeLife\obj\Debug\ProyectoBeLife.csproj.GenerateResource.Cache
+E:\Archivos C# Duoc\BeLife\BeLife\obj\Debug\ProyectoBeLife.csproj.CoreCompileInputs.cache
+E:\Archivos C# Duoc\BeLife\BeLife\obj\Debug\BeLife.exe
+E:\Archivos C# Duoc\BeLife\BeLife\obj\Debug\BeLife.pdb
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\BeLife\BeLife\obj\Debug\ProyectoBeLife.csprojResolveAssemblyReference.cache
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\BeLife\BeLife\obj\Debug\BeLife.VentanaAgregarCliente.resources
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\BeLife\BeLife\obj\Debug\BeLife.VentanaClientes.resources
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\BeLife\BeLife\obj\Debug\BeLife.VentanaMain.resources
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\BeLife\BeLife\obj\Debug\BeLife.Properties.Resources.resources
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\BeLife\BeLife\obj\Debug\ProyectoBeLife.csproj.GenerateResource.cache
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\BeLife\BeLife\obj\Debug\ProyectoBeLife.csproj.CoreCompileInputs.cache
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\BeLife\BeLife\obj\Debug\BeLife.exe
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\BeLife\BeLife\obj\Debug\BeLife.pdb
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\BeLife\BeLife\bin\Debug\BeLife.exe.config
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\BeLife\BeLife\bin\Debug\BeLife.exe
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\BeLife\BeLife\bin\Debug\BeLife.pdb
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\BeLife\BeLife\obj\Debug\BeLife.VentanaCrearContrato.resources
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\BeLife\BeLife\obj\Debug\BeLife.ListadoClientes.resources
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\BeLife\BeLife\obj\Debug\BeLife.VentanaBuscarCliente.resources
+E:\BeLife\BeLife\bin\Debug\BeLife.exe.config
+E:\BeLife\BeLife\bin\Debug\BeLife.exe
+E:\BeLife\BeLife\bin\Debug\BeLife.pdb
+E:\BeLife\BeLife\obj\Debug\ProyectoBeLife.csprojResolveAssemblyReference.cache
+E:\BeLife\BeLife\obj\Debug\BeLife.ListadoClientes.resources
+E:\BeLife\BeLife\obj\Debug\BeLife.VentanaAgregarCliente.resources
+E:\BeLife\BeLife\obj\Debug\BeLife.VentanaBuscarCliente.resources
+E:\BeLife\BeLife\obj\Debug\BeLife.VentanaClientes.resources
+E:\BeLife\BeLife\obj\Debug\BeLife.VentanaCrearContrato.resources
+E:\BeLife\BeLife\obj\Debug\BeLife.VentanaMain.resources
+E:\BeLife\BeLife\obj\Debug\BeLife.Properties.Resources.resources
+E:\BeLife\BeLife\obj\Debug\ProyectoBeLife.csproj.GenerateResource.Cache
+E:\BeLife\BeLife\obj\Debug\ProyectoBeLife.csproj.CoreCompileInputs.cache
+E:\BeLife\BeLife\obj\Debug\BeLife.exe
+E:\BeLife\BeLife\obj\Debug\BeLife.pdb
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\BeLife\BeLife\obj\Debug\BeLife.VentanaContratos.resources
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\BeLife\BeLife\obj\Debug\BeLife.VentanaListadoContratos.resources
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\BeLife\BeLife\obj\Debug\BeLife.VentanaEliminarCliente.resources
+E:\Archivos C# Duoc\BeLife\BeLife\obj\Debug\BeLife.ListadoClientes.resources
+E:\Archivos C# Duoc\BeLife\BeLife\obj\Debug\BeLife.VentanaBuscarCliente.resources
+E:\Archivos C# Duoc\BeLife\BeLife\obj\Debug\BeLife.VentanaContratos.resources
+E:\Archivos C# Duoc\BeLife\BeLife\obj\Debug\BeLife.VentanaCrearContrato.resources
+E:\Archivos C# Duoc\BeLife\BeLife\obj\Debug\BeLife.VentanaEliminarCliente.resources
+E:\Archivos C# Duoc\BeLife\BeLife\obj\Debug\BeLife.VentanaListadoContratos.resources
+E:\Archivos C# Duoc\BeLife\BeLife\obj\Debug\BeLife.VentanaBuscarContrato.resources
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\BeLife\BeLife\obj\Debug\BeLife.VentanaBuscarContrato.resources
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\BeLife\BeLife\obj\Debug\BeLife.VentanaTerminarContrato.resources
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\BeLife\BeLife\obj\Debug\BeLife.VentanaModificarCliente.resources
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\BeLife\BeLife\obj\Debug\BeLife.VentanaModificarContrato.resources
+C:\Users\PatricioMR\Google Drive\Prueba_ BeLife\BeLifeLogicoListo\BeLife\BeLife\bin\Debug\BeLife.exe.config
+C:\Users\PatricioMR\Google Drive\Prueba_ BeLife\BeLifeLogicoListo\BeLife\BeLife\bin\Debug\BeLife.exe
+C:\Users\PatricioMR\Google Drive\Prueba_ BeLife\BeLifeLogicoListo\BeLife\BeLife\bin\Debug\BeLife.pdb
+C:\Users\PatricioMR\Google Drive\Prueba_ BeLife\BeLifeLogicoListo\BeLife\BeLife\bin\Debug\es-CL\BeLife.resources.dll
+C:\Users\PatricioMR\Google Drive\Prueba_ BeLife\BeLifeLogicoListo\BeLife\BeLife\obj\Debug\ProyectoBeLife.csprojResolveAssemblyReference.cache
+C:\Users\PatricioMR\Google Drive\Prueba_ BeLife\BeLifeLogicoListo\BeLife\BeLife\obj\Debug\BeLife.ListadoClientes.resources
+C:\Users\PatricioMR\Google Drive\Prueba_ BeLife\BeLifeLogicoListo\BeLife\BeLife\obj\Debug\BeLife.VentanaAgregarCliente.resources
+C:\Users\PatricioMR\Google Drive\Prueba_ BeLife\BeLifeLogicoListo\BeLife\BeLife\obj\Debug\BeLife.VentanaBuscarCliente.resources
+C:\Users\PatricioMR\Google Drive\Prueba_ BeLife\BeLifeLogicoListo\BeLife\BeLife\obj\Debug\BeLife.VentanaBuscarContrato.resources
+C:\Users\PatricioMR\Google Drive\Prueba_ BeLife\BeLifeLogicoListo\BeLife\BeLife\obj\Debug\BeLife.VentanaClientes.resources
+C:\Users\PatricioMR\Google Drive\Prueba_ BeLife\BeLifeLogicoListo\BeLife\BeLife\obj\Debug\BeLife.VentanaContratos.resources
+C:\Users\PatricioMR\Google Drive\Prueba_ BeLife\BeLifeLogicoListo\BeLife\BeLife\obj\Debug\BeLife.VentanaCrearContrato.resources
+C:\Users\PatricioMR\Google Drive\Prueba_ BeLife\BeLifeLogicoListo\BeLife\BeLife\obj\Debug\BeLife.VentanaEliminarCliente.resources
+C:\Users\PatricioMR\Google Drive\Prueba_ BeLife\BeLifeLogicoListo\BeLife\BeLife\obj\Debug\BeLife.VentanaListadoContratos.resources
+C:\Users\PatricioMR\Google Drive\Prueba_ BeLife\BeLifeLogicoListo\BeLife\BeLife\obj\Debug\BeLife.VentanaMain.resources
+C:\Users\PatricioMR\Google Drive\Prueba_ BeLife\BeLifeLogicoListo\BeLife\BeLife\obj\Debug\BeLife.Properties.Resources.resources
+C:\Users\PatricioMR\Google Drive\Prueba_ BeLife\BeLifeLogicoListo\BeLife\BeLife\obj\Debug\BeLife.VentanaModificarCliente.resources
+C:\Users\PatricioMR\Google Drive\Prueba_ BeLife\BeLifeLogicoListo\BeLife\BeLife\obj\Debug\BeLife.VentanaModificarContrato.resources
+C:\Users\PatricioMR\Google Drive\Prueba_ BeLife\BeLifeLogicoListo\BeLife\BeLife\obj\Debug\BeLife.VentanaTerminarContrato.resources
+C:\Users\PatricioMR\Google Drive\Prueba_ BeLife\BeLifeLogicoListo\BeLife\BeLife\obj\Debug\BeLife.VentanaClientes.es-CL.resources
+C:\Users\PatricioMR\Google Drive\Prueba_ BeLife\BeLifeLogicoListo\BeLife\BeLife\obj\Debug\ProyectoBeLife.csproj.GenerateResource.cache
+C:\Users\PatricioMR\Google Drive\Prueba_ BeLife\BeLifeLogicoListo\BeLife\BeLife\obj\Debug\ProyectoBeLife.csproj.CoreCompileInputs.cache
+C:\Users\PatricioMR\Google Drive\Prueba_ BeLife\BeLifeLogicoListo\BeLife\BeLife\obj\Debug\es-CL\BeLife.resources.dll
+C:\Users\PatricioMR\Google Drive\Prueba_ BeLife\BeLifeLogicoListo\BeLife\BeLife\obj\Debug\BeLife.exe
+C:\Users\PatricioMR\Google Drive\Prueba_ BeLife\BeLifeLogicoListo\BeLife\BeLife\obj\Debug\BeLife.pdb
+C:\Users\cetecom\Downloads\BeLife\BeLife\bin\Debug\BeLife.exe.config
+C:\Users\cetecom\Downloads\BeLife\BeLife\bin\Debug\BeLife.exe
+C:\Users\cetecom\Downloads\BeLife\BeLife\bin\Debug\BeLife.pdb
+C:\Users\cetecom\Downloads\BeLife\BeLife\bin\Debug\es-CL\BeLife.resources.dll
+C:\Users\cetecom\Downloads\BeLife\BeLife\obj\Debug\ProyectoBeLife.csprojResolveAssemblyReference.cache
+C:\Users\cetecom\Downloads\BeLife\BeLife\obj\Debug\BeLife.ListadoClientes.resources
+C:\Users\cetecom\Downloads\BeLife\BeLife\obj\Debug\BeLife.VentanaAgregarCliente.resources
+C:\Users\cetecom\Downloads\BeLife\BeLife\obj\Debug\BeLife.VentanaBuscarCliente.resources
+C:\Users\cetecom\Downloads\BeLife\BeLife\obj\Debug\BeLife.VentanaBuscarContrato.resources
+C:\Users\cetecom\Downloads\BeLife\BeLife\obj\Debug\BeLife.VentanaClientes.resources
+C:\Users\cetecom\Downloads\BeLife\BeLife\obj\Debug\BeLife.VentanaContratos.resources
+C:\Users\cetecom\Downloads\BeLife\BeLife\obj\Debug\BeLife.VentanaCrearContrato.resources
+C:\Users\cetecom\Downloads\BeLife\BeLife\obj\Debug\BeLife.VentanaEliminarCliente.resources
+C:\Users\cetecom\Downloads\BeLife\BeLife\obj\Debug\BeLife.VentanaListadoContratos.resources
+C:\Users\cetecom\Downloads\BeLife\BeLife\obj\Debug\BeLife.VentanaMain.resources
+C:\Users\cetecom\Downloads\BeLife\BeLife\obj\Debug\BeLife.Properties.Resources.resources
+C:\Users\cetecom\Downloads\BeLife\BeLife\obj\Debug\BeLife.VentanaModificarCliente.resources
+C:\Users\cetecom\Downloads\BeLife\BeLife\obj\Debug\BeLife.VentanaModificarContrato.resources
+C:\Users\cetecom\Downloads\BeLife\BeLife\obj\Debug\BeLife.VentanaTerminarContrato.resources
+C:\Users\cetecom\Downloads\BeLife\BeLife\obj\Debug\BeLife.VentanaClientes.es-CL.resources
+C:\Users\cetecom\Downloads\BeLife\BeLife\obj\Debug\ProyectoBeLife.csproj.GenerateResource.Cache
+C:\Users\cetecom\Downloads\BeLife\BeLife\obj\Debug\ProyectoBeLife.csproj.CoreCompileInputs.cache
+C:\Users\cetecom\Downloads\BeLife\BeLife\obj\Debug\es-CL\BeLife.resources.dll
+C:\Users\cetecom\Downloads\BeLife\BeLife\obj\Debug\BeLife.exe
+C:\Users\cetecom\Downloads\BeLife\BeLife\obj\Debug\BeLife.pdb
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\BeLife Listo Solemne 1\BeLife\bin\Debug\BeLife.exe.config
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\BeLife Listo Solemne 1\BeLife\bin\Debug\BeLife.exe
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\BeLife Listo Solemne 1\BeLife\bin\Debug\BeLife.pdb
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\BeLife Listo Solemne 1\BeLife\bin\Debug\es-CL\BeLife.resources.dll
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\BeLife Listo Solemne 1\BeLife\obj\Debug\ProyectoBeLife.csprojResolveAssemblyReference.cache
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\BeLife Listo Solemne 1\BeLife\obj\Debug\BeLife.ListadoClientes.resources
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\BeLife Listo Solemne 1\BeLife\obj\Debug\BeLife.VentanaAgregarCliente.resources
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\BeLife Listo Solemne 1\BeLife\obj\Debug\BeLife.VentanaBuscarCliente.resources
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\BeLife Listo Solemne 1\BeLife\obj\Debug\BeLife.VentanaBuscarContrato.resources
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\BeLife Listo Solemne 1\BeLife\obj\Debug\BeLife.VentanaClientes.resources
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\BeLife Listo Solemne 1\BeLife\obj\Debug\BeLife.VentanaContratos.resources
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\BeLife Listo Solemne 1\BeLife\obj\Debug\BeLife.VentanaCrearContrato.resources
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\BeLife Listo Solemne 1\BeLife\obj\Debug\BeLife.VentanaEliminarCliente.resources
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\BeLife Listo Solemne 1\BeLife\obj\Debug\BeLife.VentanaListadoContratos.resources
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\BeLife Listo Solemne 1\BeLife\obj\Debug\BeLife.VentanaMain.resources
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\BeLife Listo Solemne 1\BeLife\obj\Debug\BeLife.Properties.Resources.resources
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\BeLife Listo Solemne 1\BeLife\obj\Debug\BeLife.VentanaModificarCliente.resources
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\BeLife Listo Solemne 1\BeLife\obj\Debug\BeLife.VentanaModificarContrato.resources
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\BeLife Listo Solemne 1\BeLife\obj\Debug\BeLife.VentanaTerminarContrato.resources
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\BeLife Listo Solemne 1\BeLife\obj\Debug\BeLife.VentanaClientes.es-CL.resources
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\BeLife Listo Solemne 1\BeLife\obj\Debug\ProyectoBeLife.csproj.GenerateResource.cache
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\BeLife Listo Solemne 1\BeLife\obj\Debug\ProyectoBeLife.csproj.CoreCompileInputs.cache
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\BeLife Listo Solemne 1\BeLife\obj\Debug\es-CL\BeLife.resources.dll
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\BeLife Listo Solemne 1\BeLife\obj\Debug\BeLife.exe
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\BeLife Listo Solemne 1\BeLife\obj\Debug\BeLife.pdb
+F:\duoc\2018\Desarrollo de software y gestion de escritorio\2.Unidad 2\BeLife Listo Solemne 1\BeLife\bin\Debug\BeLife.exe.config
+F:\duoc\2018\Desarrollo de software y gestion de escritorio\2.Unidad 2\BeLife Listo Solemne 1\BeLife\bin\Debug\BeLife.exe
+F:\duoc\2018\Desarrollo de software y gestion de escritorio\2.Unidad 2\BeLife Listo Solemne 1\BeLife\bin\Debug\BeLife.pdb
+F:\duoc\2018\Desarrollo de software y gestion de escritorio\2.Unidad 2\BeLife Listo Solemne 1\BeLife\bin\Debug\es-CL\BeLife.resources.dll
+F:\duoc\2018\Desarrollo de software y gestion de escritorio\2.Unidad 2\BeLife Listo Solemne 1\BeLife\obj\Debug\ProyectoBeLife.csprojResolveAssemblyReference.cache
+F:\duoc\2018\Desarrollo de software y gestion de escritorio\2.Unidad 2\BeLife Listo Solemne 1\BeLife\obj\Debug\BeLife.ListadoClientes.resources
+F:\duoc\2018\Desarrollo de software y gestion de escritorio\2.Unidad 2\BeLife Listo Solemne 1\BeLife\obj\Debug\BeLife.VentanaAgregarCliente.resources
+F:\duoc\2018\Desarrollo de software y gestion de escritorio\2.Unidad 2\BeLife Listo Solemne 1\BeLife\obj\Debug\BeLife.VentanaBuscarCliente.resources
+F:\duoc\2018\Desarrollo de software y gestion de escritorio\2.Unidad 2\BeLife Listo Solemne 1\BeLife\obj\Debug\BeLife.VentanaBuscarContrato.resources
+F:\duoc\2018\Desarrollo de software y gestion de escritorio\2.Unidad 2\BeLife Listo Solemne 1\BeLife\obj\Debug\BeLife.VentanaClientes.resources
+F:\duoc\2018\Desarrollo de software y gestion de escritorio\2.Unidad 2\BeLife Listo Solemne 1\BeLife\obj\Debug\BeLife.VentanaContratos.resources
+F:\duoc\2018\Desarrollo de software y gestion de escritorio\2.Unidad 2\BeLife Listo Solemne 1\BeLife\obj\Debug\BeLife.VentanaCrearContrato.resources
+F:\duoc\2018\Desarrollo de software y gestion de escritorio\2.Unidad 2\BeLife Listo Solemne 1\BeLife\obj\Debug\BeLife.VentanaEliminarCliente.resources
+F:\duoc\2018\Desarrollo de software y gestion de escritorio\2.Unidad 2\BeLife Listo Solemne 1\BeLife\obj\Debug\BeLife.VentanaListadoContratos.resources
+F:\duoc\2018\Desarrollo de software y gestion de escritorio\2.Unidad 2\BeLife Listo Solemne 1\BeLife\obj\Debug\BeLife.VentanaMain.resources
+F:\duoc\2018\Desarrollo de software y gestion de escritorio\2.Unidad 2\BeLife Listo Solemne 1\BeLife\obj\Debug\BeLife.Properties.Resources.resources
+F:\duoc\2018\Desarrollo de software y gestion de escritorio\2.Unidad 2\BeLife Listo Solemne 1\BeLife\obj\Debug\BeLife.VentanaModificarCliente.resources
+F:\duoc\2018\Desarrollo de software y gestion de escritorio\2.Unidad 2\BeLife Listo Solemne 1\BeLife\obj\Debug\BeLife.VentanaModificarContrato.resources
+F:\duoc\2018\Desarrollo de software y gestion de escritorio\2.Unidad 2\BeLife Listo Solemne 1\BeLife\obj\Debug\BeLife.VentanaTerminarContrato.resources
+F:\duoc\2018\Desarrollo de software y gestion de escritorio\2.Unidad 2\BeLife Listo Solemne 1\BeLife\obj\Debug\BeLife.VentanaClientes.es-CL.resources
+F:\duoc\2018\Desarrollo de software y gestion de escritorio\2.Unidad 2\BeLife Listo Solemne 1\BeLife\obj\Debug\ProyectoBeLife.csproj.GenerateResource.cache
+F:\duoc\2018\Desarrollo de software y gestion de escritorio\2.Unidad 2\BeLife Listo Solemne 1\BeLife\obj\Debug\ProyectoBeLife.csproj.CoreCompileInputs.cache
+F:\duoc\2018\Desarrollo de software y gestion de escritorio\2.Unidad 2\BeLife Listo Solemne 1\BeLife\obj\Debug\es-CL\BeLife.resources.dll
+F:\duoc\2018\Desarrollo de software y gestion de escritorio\2.Unidad 2\BeLife Listo Solemne 1\BeLife\obj\Debug\BeLife.exe
+F:\duoc\2018\Desarrollo de software y gestion de escritorio\2.Unidad 2\BeLife Listo Solemne 1\BeLife\obj\Debug\BeLife.pdb
+D:\Users\undea\Documents\Mio\DuocUc\Desarrollo de Software y escritorio\Solemne 2\Solemne 2 (sin db)\BeLife Listo Solemne 2\BeLife Listo Solemne 1\BeLife\bin\Debug\BeLife.exe.config
+D:\Users\undea\Documents\Mio\DuocUc\Desarrollo de Software y escritorio\Solemne 2\Solemne 2 (sin db)\BeLife Listo Solemne 2\BeLife Listo Solemne 1\BeLife\bin\Debug\BeLife.exe
+D:\Users\undea\Documents\Mio\DuocUc\Desarrollo de Software y escritorio\Solemne 2\Solemne 2 (sin db)\BeLife Listo Solemne 2\BeLife Listo Solemne 1\BeLife\bin\Debug\BeLife.pdb
+D:\Users\undea\Documents\Mio\DuocUc\Desarrollo de Software y escritorio\Solemne 2\Solemne 2 (sin db)\BeLife Listo Solemne 2\BeLife Listo Solemne 1\BeLife\bin\Debug\es-CL\BeLife.resources.dll
+D:\Users\undea\Documents\Mio\DuocUc\Desarrollo de Software y escritorio\Solemne 2\Solemne 2 (sin db)\BeLife Listo Solemne 2\BeLife Listo Solemne 1\BeLife\obj\Debug\ProyectoBeLife.csprojResolveAssemblyReference.cache
+D:\Users\undea\Documents\Mio\DuocUc\Desarrollo de Software y escritorio\Solemne 2\Solemne 2 (sin db)\BeLife Listo Solemne 2\BeLife Listo Solemne 1\BeLife\obj\Debug\BeLife.ListadoClientes.resources
+D:\Users\undea\Documents\Mio\DuocUc\Desarrollo de Software y escritorio\Solemne 2\Solemne 2 (sin db)\BeLife Listo Solemne 2\BeLife Listo Solemne 1\BeLife\obj\Debug\BeLife.VentanaAgregarCliente.resources
+D:\Users\undea\Documents\Mio\DuocUc\Desarrollo de Software y escritorio\Solemne 2\Solemne 2 (sin db)\BeLife Listo Solemne 2\BeLife Listo Solemne 1\BeLife\obj\Debug\BeLife.VentanaBuscarCliente.resources
+D:\Users\undea\Documents\Mio\DuocUc\Desarrollo de Software y escritorio\Solemne 2\Solemne 2 (sin db)\BeLife Listo Solemne 2\BeLife Listo Solemne 1\BeLife\obj\Debug\BeLife.VentanaBuscarContrato.resources
+D:\Users\undea\Documents\Mio\DuocUc\Desarrollo de Software y escritorio\Solemne 2\Solemne 2 (sin db)\BeLife Listo Solemne 2\BeLife Listo Solemne 1\BeLife\obj\Debug\BeLife.VentanaClientes.resources
+D:\Users\undea\Documents\Mio\DuocUc\Desarrollo de Software y escritorio\Solemne 2\Solemne 2 (sin db)\BeLife Listo Solemne 2\BeLife Listo Solemne 1\BeLife\obj\Debug\BeLife.VentanaContratos.resources
+D:\Users\undea\Documents\Mio\DuocUc\Desarrollo de Software y escritorio\Solemne 2\Solemne 2 (sin db)\BeLife Listo Solemne 2\BeLife Listo Solemne 1\BeLife\obj\Debug\BeLife.VentanaCrearContrato.resources
+D:\Users\undea\Documents\Mio\DuocUc\Desarrollo de Software y escritorio\Solemne 2\Solemne 2 (sin db)\BeLife Listo Solemne 2\BeLife Listo Solemne 1\BeLife\obj\Debug\BeLife.VentanaEliminarCliente.resources
+D:\Users\undea\Documents\Mio\DuocUc\Desarrollo de Software y escritorio\Solemne 2\Solemne 2 (sin db)\BeLife Listo Solemne 2\BeLife Listo Solemne 1\BeLife\obj\Debug\BeLife.VentanaListadoContratos.resources
+D:\Users\undea\Documents\Mio\DuocUc\Desarrollo de Software y escritorio\Solemne 2\Solemne 2 (sin db)\BeLife Listo Solemne 2\BeLife Listo Solemne 1\BeLife\obj\Debug\BeLife.VentanaMain.resources
+D:\Users\undea\Documents\Mio\DuocUc\Desarrollo de Software y escritorio\Solemne 2\Solemne 2 (sin db)\BeLife Listo Solemne 2\BeLife Listo Solemne 1\BeLife\obj\Debug\BeLife.Properties.Resources.resources
+D:\Users\undea\Documents\Mio\DuocUc\Desarrollo de Software y escritorio\Solemne 2\Solemne 2 (sin db)\BeLife Listo Solemne 2\BeLife Listo Solemne 1\BeLife\obj\Debug\BeLife.VentanaModificarCliente.resources
+D:\Users\undea\Documents\Mio\DuocUc\Desarrollo de Software y escritorio\Solemne 2\Solemne 2 (sin db)\BeLife Listo Solemne 2\BeLife Listo Solemne 1\BeLife\obj\Debug\BeLife.VentanaModificarContrato.resources
+D:\Users\undea\Documents\Mio\DuocUc\Desarrollo de Software y escritorio\Solemne 2\Solemne 2 (sin db)\BeLife Listo Solemne 2\BeLife Listo Solemne 1\BeLife\obj\Debug\BeLife.VentanaTerminarContrato.resources
+D:\Users\undea\Documents\Mio\DuocUc\Desarrollo de Software y escritorio\Solemne 2\Solemne 2 (sin db)\BeLife Listo Solemne 2\BeLife Listo Solemne 1\BeLife\obj\Debug\BeLife.VentanaClientes.es-CL.resources
+D:\Users\undea\Documents\Mio\DuocUc\Desarrollo de Software y escritorio\Solemne 2\Solemne 2 (sin db)\BeLife Listo Solemne 2\BeLife Listo Solemne 1\BeLife\obj\Debug\ProyectoBeLife.csproj.GenerateResource.cache
+D:\Users\undea\Documents\Mio\DuocUc\Desarrollo de Software y escritorio\Solemne 2\Solemne 2 (sin db)\BeLife Listo Solemne 2\BeLife Listo Solemne 1\BeLife\obj\Debug\ProyectoBeLife.csproj.CoreCompileInputs.cache
+D:\Users\undea\Documents\Mio\DuocUc\Desarrollo de Software y escritorio\Solemne 2\Solemne 2 (sin db)\BeLife Listo Solemne 2\BeLife Listo Solemne 1\BeLife\obj\Debug\es-CL\BeLife.resources.dll
+D:\Users\undea\Documents\Mio\DuocUc\Desarrollo de Software y escritorio\Solemne 2\Solemne 2 (sin db)\BeLife Listo Solemne 2\BeLife Listo Solemne 1\BeLife\obj\Debug\BeLife.exe
+D:\Users\undea\Documents\Mio\DuocUc\Desarrollo de Software y escritorio\Solemne 2\Solemne 2 (sin db)\BeLife Listo Solemne 2\BeLife Listo Solemne 1\BeLife\obj\Debug\BeLife.pdb
+C:\Users\cetecom\Downloads\Solemne 2 (sin db)\Solemne 2 (sin db)\BeLife Listo Solemne 2\BeLife Listo Solemne 1\BeLife\obj\Debug\ProyectoBeLife.csprojResolveAssemblyReference.cache
+C:\Users\cetecom\Downloads\Solemne 2 (sin db)\Solemne 2 (sin db)\BeLife Listo Solemne 2\BeLife Listo Solemne 1\BeLife\obj\Debug\BeLife.VentanaAgregarCliente.resources
+C:\Users\cetecom\Downloads\Solemne 2 (sin db)\Solemne 2 (sin db)\BeLife Listo Solemne 2\BeLife Listo Solemne 1\BeLife\obj\Debug\BeLife.VentanaBuscarCliente.resources
+C:\Users\cetecom\Downloads\Solemne 2 (sin db)\Solemne 2 (sin db)\BeLife Listo Solemne 2\BeLife Listo Solemne 1\BeLife\obj\Debug\BeLife.VentanaBuscarContrato.resources
+C:\Users\cetecom\Downloads\Solemne 2 (sin db)\Solemne 2 (sin db)\BeLife Listo Solemne 2\BeLife Listo Solemne 1\BeLife\obj\Debug\BeLife.VentanaClientes.resources
+C:\Users\cetecom\Downloads\Solemne 2 (sin db)\Solemne 2 (sin db)\BeLife Listo Solemne 2\BeLife Listo Solemne 1\BeLife\obj\Debug\BeLife.VentanaContratos.resources
+C:\Users\cetecom\Downloads\Solemne 2 (sin db)\Solemne 2 (sin db)\BeLife Listo Solemne 2\BeLife Listo Solemne 1\BeLife\obj\Debug\BeLife.VentanaCrearContrato.resources
+C:\Users\cetecom\Downloads\Solemne 2 (sin db)\Solemne 2 (sin db)\BeLife Listo Solemne 2\BeLife Listo Solemne 1\BeLife\obj\Debug\BeLife.VentanaEliminarCliente.resources
+C:\Users\cetecom\Downloads\Solemne 2 (sin db)\Solemne 2 (sin db)\BeLife Listo Solemne 2\BeLife Listo Solemne 1\BeLife\obj\Debug\BeLife.VentanaListadoContratos.resources
+C:\Users\cetecom\Downloads\Solemne 2 (sin db)\Solemne 2 (sin db)\BeLife Listo Solemne 2\BeLife Listo Solemne 1\BeLife\obj\Debug\BeLife.VentanaMain.resources
+C:\Users\cetecom\Downloads\Solemne 2 (sin db)\Solemne 2 (sin db)\BeLife Listo Solemne 2\BeLife Listo Solemne 1\BeLife\obj\Debug\BeLife.Properties.Resources.resources
+C:\Users\cetecom\Downloads\Solemne 2 (sin db)\Solemne 2 (sin db)\BeLife Listo Solemne 2\BeLife Listo Solemne 1\BeLife\obj\Debug\BeLife.VentanaModificarCliente.resources
+C:\Users\cetecom\Downloads\Solemne 2 (sin db)\Solemne 2 (sin db)\BeLife Listo Solemne 2\BeLife Listo Solemne 1\BeLife\obj\Debug\BeLife.VentanaModificarContrato.resources
+C:\Users\cetecom\Downloads\Solemne 2 (sin db)\Solemne 2 (sin db)\BeLife Listo Solemne 2\BeLife Listo Solemne 1\BeLife\obj\Debug\BeLife.VentanaTerminarContrato.resources
+C:\Users\cetecom\Downloads\Solemne 2 (sin db)\Solemne 2 (sin db)\BeLife Listo Solemne 2\BeLife Listo Solemne 1\BeLife\obj\Debug\BeLife.VentanaClientes.es-CL.resources
+C:\Users\cetecom\Downloads\Solemne 2 (sin db)\Solemne 2 (sin db)\BeLife Listo Solemne 2\BeLife Listo Solemne 1\BeLife\obj\Debug\ProyectoBeLife.csproj.GenerateResource.Cache
+C:\Users\cetecom\Downloads\Solemne 2 (sin db)\Solemne 2 (sin db)\BeLife Listo Solemne 2\BeLife Listo Solemne 1\BeLife\obj\Debug\ProyectoBeLife.csproj.CoreCompileInputs.cache
+C:\Users\cetecom\Downloads\Solemne 2 (sin db)\Solemne 2 (sin db)\BeLife Listo Solemne 2\BeLife Listo Solemne 1\BeLife\obj\Debug\BeLife.exe
+C:\Users\cetecom\Downloads\Solemne 2 (sin db)\Solemne 2 (sin db)\BeLife Listo Solemne 2\BeLife Listo Solemne 1\BeLife\obj\Debug\BeLife.pdb
+C:\Users\cetecom\Downloads\Solemne 2 (sin db)\Solemne 2 (sin db)\BeLife Listo Solemne 2\BeLife Listo Solemne 1\BeLife\bin\Debug\BeLife.exe.config
+C:\Users\cetecom\Downloads\Solemne 2 (sin db)\Solemne 2 (sin db)\BeLife Listo Solemne 2\BeLife Listo Solemne 1\BeLife\bin\Debug\BeLife.exe
+C:\Users\cetecom\Downloads\Solemne 2 (sin db)\Solemne 2 (sin db)\BeLife Listo Solemne 2\BeLife Listo Solemne 1\BeLife\bin\Debug\BeLife.pdb
+C:\Users\cetecom\Downloads\Solemne 2 (sin db)\Solemne 2 (sin db)\BeLife Listo Solemne 2\BeLife Listo Solemne 1\BeLife\bin\Debug\es-CL\BeLife.resources.dll
+C:\Users\cetecom\Downloads\Solemne 2 (sin db)\Solemne 2 (sin db)\BeLife Listo Solemne 2\BeLife Listo Solemne 1\BeLife\bin\Debug\MetroFramework.dll
+C:\Users\cetecom\Downloads\Solemne 2 (sin db)\Solemne 2 (sin db)\BeLife Listo Solemne 2\BeLife Listo Solemne 1\BeLife\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\cetecom\Downloads\Solemne 2 (sin db)\Solemne 2 (sin db)\BeLife Listo Solemne 2\BeLife Listo Solemne 1\BeLife\obj\Debug\es-CL\BeLife.resources.dll
+F:\duoc\2018\Desarrollo de software y gestion de escritorio\2.Unidad 2\Solemne 2 (sin db)\Solemne 2 (sin db)\BeLife Listo Solemne 2\BeLife Listo Solemne 1\BeLife\bin\Debug\BeLife.exe.config
+F:\duoc\2018\Desarrollo de software y gestion de escritorio\2.Unidad 2\Solemne 2 (sin db)\Solemne 2 (sin db)\BeLife Listo Solemne 2\BeLife Listo Solemne 1\BeLife\bin\Debug\BeLife.exe
+F:\duoc\2018\Desarrollo de software y gestion de escritorio\2.Unidad 2\Solemne 2 (sin db)\Solemne 2 (sin db)\BeLife Listo Solemne 2\BeLife Listo Solemne 1\BeLife\bin\Debug\BeLife.pdb
+F:\duoc\2018\Desarrollo de software y gestion de escritorio\2.Unidad 2\Solemne 2 (sin db)\Solemne 2 (sin db)\BeLife Listo Solemne 2\BeLife Listo Solemne 1\BeLife\bin\Debug\es-CL\BeLife.resources.dll
+F:\duoc\2018\Desarrollo de software y gestion de escritorio\2.Unidad 2\Solemne 2 (sin db)\Solemne 2 (sin db)\BeLife Listo Solemne 2\BeLife Listo Solemne 1\BeLife\bin\Debug\MetroFramework.dll
+F:\duoc\2018\Desarrollo de software y gestion de escritorio\2.Unidad 2\Solemne 2 (sin db)\Solemne 2 (sin db)\BeLife Listo Solemne 2\BeLife Listo Solemne 1\BeLife\bin\Debug\MetroFramework.Fonts.dll
+F:\duoc\2018\Desarrollo de software y gestion de escritorio\2.Unidad 2\Solemne 2 (sin db)\Solemne 2 (sin db)\BeLife Listo Solemne 2\BeLife Listo Solemne 1\BeLife\obj\Debug\ProyectoBeLife.csprojResolveAssemblyReference.cache
+F:\duoc\2018\Desarrollo de software y gestion de escritorio\2.Unidad 2\Solemne 2 (sin db)\Solemne 2 (sin db)\BeLife Listo Solemne 2\BeLife Listo Solemne 1\BeLife\obj\Debug\BeLife.VentanaAgregarCliente.resources
+F:\duoc\2018\Desarrollo de software y gestion de escritorio\2.Unidad 2\Solemne 2 (sin db)\Solemne 2 (sin db)\BeLife Listo Solemne 2\BeLife Listo Solemne 1\BeLife\obj\Debug\BeLife.VentanaBuscarCliente.resources
+F:\duoc\2018\Desarrollo de software y gestion de escritorio\2.Unidad 2\Solemne 2 (sin db)\Solemne 2 (sin db)\BeLife Listo Solemne 2\BeLife Listo Solemne 1\BeLife\obj\Debug\BeLife.VentanaBuscarContrato.resources
+F:\duoc\2018\Desarrollo de software y gestion de escritorio\2.Unidad 2\Solemne 2 (sin db)\Solemne 2 (sin db)\BeLife Listo Solemne 2\BeLife Listo Solemne 1\BeLife\obj\Debug\BeLife.VentanaClientes.resources
+F:\duoc\2018\Desarrollo de software y gestion de escritorio\2.Unidad 2\Solemne 2 (sin db)\Solemne 2 (sin db)\BeLife Listo Solemne 2\BeLife Listo Solemne 1\BeLife\obj\Debug\BeLife.VentanaContratos.resources
+F:\duoc\2018\Desarrollo de software y gestion de escritorio\2.Unidad 2\Solemne 2 (sin db)\Solemne 2 (sin db)\BeLife Listo Solemne 2\BeLife Listo Solemne 1\BeLife\obj\Debug\BeLife.VentanaCrearContrato.resources
+F:\duoc\2018\Desarrollo de software y gestion de escritorio\2.Unidad 2\Solemne 2 (sin db)\Solemne 2 (sin db)\BeLife Listo Solemne 2\BeLife Listo Solemne 1\BeLife\obj\Debug\BeLife.VentanaEliminarCliente.resources
+F:\duoc\2018\Desarrollo de software y gestion de escritorio\2.Unidad 2\Solemne 2 (sin db)\Solemne 2 (sin db)\BeLife Listo Solemne 2\BeLife Listo Solemne 1\BeLife\obj\Debug\BeLife.VentanaListadoContratos.resources
+F:\duoc\2018\Desarrollo de software y gestion de escritorio\2.Unidad 2\Solemne 2 (sin db)\Solemne 2 (sin db)\BeLife Listo Solemne 2\BeLife Listo Solemne 1\BeLife\obj\Debug\BeLife.Forms.VentanaListarCliente.resources
+F:\duoc\2018\Desarrollo de software y gestion de escritorio\2.Unidad 2\Solemne 2 (sin db)\Solemne 2 (sin db)\BeLife Listo Solemne 2\BeLife Listo Solemne 1\BeLife\obj\Debug\BeLife.VentanaMain.resources
+F:\duoc\2018\Desarrollo de software y gestion de escritorio\2.Unidad 2\Solemne 2 (sin db)\Solemne 2 (sin db)\BeLife Listo Solemne 2\BeLife Listo Solemne 1\BeLife\obj\Debug\BeLife.Properties.Resources.resources
+F:\duoc\2018\Desarrollo de software y gestion de escritorio\2.Unidad 2\Solemne 2 (sin db)\Solemne 2 (sin db)\BeLife Listo Solemne 2\BeLife Listo Solemne 1\BeLife\obj\Debug\BeLife.VentanaModificarCliente.resources
+F:\duoc\2018\Desarrollo de software y gestion de escritorio\2.Unidad 2\Solemne 2 (sin db)\Solemne 2 (sin db)\BeLife Listo Solemne 2\BeLife Listo Solemne 1\BeLife\obj\Debug\BeLife.VentanaModificarContrato.resources
+F:\duoc\2018\Desarrollo de software y gestion de escritorio\2.Unidad 2\Solemne 2 (sin db)\Solemne 2 (sin db)\BeLife Listo Solemne 2\BeLife Listo Solemne 1\BeLife\obj\Debug\BeLife.VentanaTerminarContrato.resources
+F:\duoc\2018\Desarrollo de software y gestion de escritorio\2.Unidad 2\Solemne 2 (sin db)\Solemne 2 (sin db)\BeLife Listo Solemne 2\BeLife Listo Solemne 1\BeLife\obj\Debug\BeLife.VentanaClientes.es-CL.resources
+F:\duoc\2018\Desarrollo de software y gestion de escritorio\2.Unidad 2\Solemne 2 (sin db)\Solemne 2 (sin db)\BeLife Listo Solemne 2\BeLife Listo Solemne 1\BeLife\obj\Debug\ProyectoBeLife.csproj.GenerateResource.cache
+F:\duoc\2018\Desarrollo de software y gestion de escritorio\2.Unidad 2\Solemne 2 (sin db)\Solemne 2 (sin db)\BeLife Listo Solemne 2\BeLife Listo Solemne 1\BeLife\obj\Debug\ProyectoBeLife.csproj.CoreCompileInputs.cache
+F:\duoc\2018\Desarrollo de software y gestion de escritorio\2.Unidad 2\Solemne 2 (sin db)\Solemne 2 (sin db)\BeLife Listo Solemne 2\BeLife Listo Solemne 1\BeLife\obj\Debug\es-CL\BeLife.resources.dll
+F:\duoc\2018\Desarrollo de software y gestion de escritorio\2.Unidad 2\Solemne 2 (sin db)\Solemne 2 (sin db)\BeLife Listo Solemne 2\BeLife Listo Solemne 1\BeLife\obj\Debug\ProyectoBeLife.csproj.CopyComplete
+F:\duoc\2018\Desarrollo de software y gestion de escritorio\2.Unidad 2\Solemne 2 (sin db)\Solemne 2 (sin db)\BeLife Listo Solemne 2\BeLife Listo Solemne 1\BeLife\obj\Debug\BeLife.exe
+F:\duoc\2018\Desarrollo de software y gestion de escritorio\2.Unidad 2\Solemne 2 (sin db)\Solemne 2 (sin db)\BeLife Listo Solemne 2\BeLife Listo Solemne 1\BeLife\obj\Debug\BeLife.pdb
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\BeLife Listo Solemne 1 PRUEBAS BD avances 0306\Solemne 2 (sin db)\BeLife Solemne 2\BeLife Listo Solemne 2\BeLife\bin\Debug\BeLife.exe.config
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\BeLife Listo Solemne 1 PRUEBAS BD avances 0306\Solemne 2 (sin db)\BeLife Solemne 2\BeLife Listo Solemne 2\BeLife\bin\Debug\BeLife.exe
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\BeLife Listo Solemne 1 PRUEBAS BD avances 0306\Solemne 2 (sin db)\BeLife Solemne 2\BeLife Listo Solemne 2\BeLife\bin\Debug\BeLife.pdb
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\BeLife Listo Solemne 1 PRUEBAS BD avances 0306\Solemne 2 (sin db)\BeLife Solemne 2\BeLife Listo Solemne 2\BeLife\bin\Debug\es-CL\BeLife.resources.dll
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\BeLife Listo Solemne 1 PRUEBAS BD avances 0306\Solemne 2 (sin db)\BeLife Solemne 2\BeLife Listo Solemne 2\BeLife\bin\Debug\MetroFramework.dll
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\BeLife Listo Solemne 1 PRUEBAS BD avances 0306\Solemne 2 (sin db)\BeLife Solemne 2\BeLife Listo Solemne 2\BeLife\bin\Debug\MetroFramework.Fonts.dll
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\BeLife Listo Solemne 1 PRUEBAS BD avances 0306\Solemne 2 (sin db)\BeLife Solemne 2\BeLife Listo Solemne 2\BeLife\obj\Debug\ProyectoBeLife.csprojAssemblyReference.cache
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\BeLife Listo Solemne 1 PRUEBAS BD avances 0306\Solemne 2 (sin db)\BeLife Solemne 2\BeLife Listo Solemne 2\BeLife\obj\Debug\BeLife.VentanaAgregarCliente.resources
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\BeLife Listo Solemne 1 PRUEBAS BD avances 0306\Solemne 2 (sin db)\BeLife Solemne 2\BeLife Listo Solemne 2\BeLife\obj\Debug\BeLife.VentanaBuscarCliente.resources
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\BeLife Listo Solemne 1 PRUEBAS BD avances 0306\Solemne 2 (sin db)\BeLife Solemne 2\BeLife Listo Solemne 2\BeLife\obj\Debug\BeLife.VentanaBuscarContrato.resources
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\BeLife Listo Solemne 1 PRUEBAS BD avances 0306\Solemne 2 (sin db)\BeLife Solemne 2\BeLife Listo Solemne 2\BeLife\obj\Debug\BeLife.VentanaClientes.resources
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\BeLife Listo Solemne 1 PRUEBAS BD avances 0306\Solemne 2 (sin db)\BeLife Solemne 2\BeLife Listo Solemne 2\BeLife\obj\Debug\BeLife.VentanaContratos.resources
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\BeLife Listo Solemne 1 PRUEBAS BD avances 0306\Solemne 2 (sin db)\BeLife Solemne 2\BeLife Listo Solemne 2\BeLife\obj\Debug\BeLife.VentanaCrearContrato.resources
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\BeLife Listo Solemne 1 PRUEBAS BD avances 0306\Solemne 2 (sin db)\BeLife Solemne 2\BeLife Listo Solemne 2\BeLife\obj\Debug\BeLife.VentanaEliminarCliente.resources
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\BeLife Listo Solemne 1 PRUEBAS BD avances 0306\Solemne 2 (sin db)\BeLife Solemne 2\BeLife Listo Solemne 2\BeLife\obj\Debug\BeLife.VentanaListadoContratos.resources
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\BeLife Listo Solemne 1 PRUEBAS BD avances 0306\Solemne 2 (sin db)\BeLife Solemne 2\BeLife Listo Solemne 2\BeLife\obj\Debug\BeLife.VentanaMain.resources
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\BeLife Listo Solemne 1 PRUEBAS BD avances 0306\Solemne 2 (sin db)\BeLife Solemne 2\BeLife Listo Solemne 2\BeLife\obj\Debug\BeLife.Properties.Resources.resources
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\BeLife Listo Solemne 1 PRUEBAS BD avances 0306\Solemne 2 (sin db)\BeLife Solemne 2\BeLife Listo Solemne 2\BeLife\obj\Debug\BeLife.VentanaModificarCliente.resources
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\BeLife Listo Solemne 1 PRUEBAS BD avances 0306\Solemne 2 (sin db)\BeLife Solemne 2\BeLife Listo Solemne 2\BeLife\obj\Debug\BeLife.VentanaModificarContrato.resources
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\BeLife Listo Solemne 1 PRUEBAS BD avances 0306\Solemne 2 (sin db)\BeLife Solemne 2\BeLife Listo Solemne 2\BeLife\obj\Debug\BeLife.VentanaTerminarContrato.resources
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\BeLife Listo Solemne 1 PRUEBAS BD avances 0306\Solemne 2 (sin db)\BeLife Solemne 2\BeLife Listo Solemne 2\BeLife\obj\Debug\BeLife.VentanaClientes.es-CL.resources
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\BeLife Listo Solemne 1 PRUEBAS BD avances 0306\Solemne 2 (sin db)\BeLife Solemne 2\BeLife Listo Solemne 2\BeLife\obj\Debug\ProyectoBeLife.csproj.GenerateResource.cache
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\BeLife Listo Solemne 1 PRUEBAS BD avances 0306\Solemne 2 (sin db)\BeLife Solemne 2\BeLife Listo Solemne 2\BeLife\obj\Debug\ProyectoBeLife.csproj.CoreCompileInputs.cache
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\BeLife Listo Solemne 1 PRUEBAS BD avances 0306\Solemne 2 (sin db)\BeLife Solemne 2\BeLife Listo Solemne 2\BeLife\obj\Debug\es-CL\BeLife.resources.dll
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\BeLife Listo Solemne 1 PRUEBAS BD avances 0306\Solemne 2 (sin db)\BeLife Solemne 2\BeLife Listo Solemne 2\BeLife\obj\Debug\ProyectoBeLife.csproj.CopyComplete
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\BeLife Listo Solemne 1 PRUEBAS BD avances 0306\Solemne 2 (sin db)\BeLife Solemne 2\BeLife Listo Solemne 2\BeLife\obj\Debug\BeLife.exe
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\BeLife Listo Solemne 1 PRUEBAS BD avances 0306\Solemne 2 (sin db)\BeLife Solemne 2\BeLife Listo Solemne 2\BeLife\obj\Debug\BeLife.pdb
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\BeLife Listo Solemne 1 PRUEBAS BD avances 0306\Solemne 2 (BD+FORMS)\BeLife Solemne 2\BeLife Listo Solemne 2\BeLife\bin\Debug\BeLife.exe.config
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\BeLife Listo Solemne 1 PRUEBAS BD avances 0306\Solemne 2 (BD+FORMS)\BeLife Solemne 2\BeLife Listo Solemne 2\BeLife\bin\Debug\BeLife.exe
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\BeLife Listo Solemne 1 PRUEBAS BD avances 0306\Solemne 2 (BD+FORMS)\BeLife Solemne 2\BeLife Listo Solemne 2\BeLife\bin\Debug\BeLife.pdb
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\BeLife Listo Solemne 1 PRUEBAS BD avances 0306\Solemne 2 (BD+FORMS)\BeLife Solemne 2\BeLife Listo Solemne 2\BeLife\bin\Debug\es-CL\BeLife.resources.dll
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\BeLife Listo Solemne 1 PRUEBAS BD avances 0306\Solemne 2 (BD+FORMS)\BeLife Solemne 2\BeLife Listo Solemne 2\BeLife\bin\Debug\MetroFramework.dll
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\BeLife Listo Solemne 1 PRUEBAS BD avances 0306\Solemne 2 (BD+FORMS)\BeLife Solemne 2\BeLife Listo Solemne 2\BeLife\bin\Debug\MetroFramework.Fonts.dll
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\BeLife Listo Solemne 1 PRUEBAS BD avances 0306\Solemne 2 (BD+FORMS)\BeLife Solemne 2\BeLife Listo Solemne 2\BeLife\obj\Debug\ProyectoBeLife.csprojAssemblyReference.cache
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\BeLife Listo Solemne 1 PRUEBAS BD avances 0306\Solemne 2 (BD+FORMS)\BeLife Solemne 2\BeLife Listo Solemne 2\BeLife\obj\Debug\BeLife.VentanaAgregarCliente.resources
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\BeLife Listo Solemne 1 PRUEBAS BD avances 0306\Solemne 2 (BD+FORMS)\BeLife Solemne 2\BeLife Listo Solemne 2\BeLife\obj\Debug\BeLife.VentanaBuscarContrato.resources
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\BeLife Listo Solemne 1 PRUEBAS BD avances 0306\Solemne 2 (BD+FORMS)\BeLife Solemne 2\BeLife Listo Solemne 2\BeLife\obj\Debug\BeLife.VentanaClientes.resources
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\BeLife Listo Solemne 1 PRUEBAS BD avances 0306\Solemne 2 (BD+FORMS)\BeLife Solemne 2\BeLife Listo Solemne 2\BeLife\obj\Debug\BeLife.VentanaContratos.resources
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\BeLife Listo Solemne 1 PRUEBAS BD avances 0306\Solemne 2 (BD+FORMS)\BeLife Solemne 2\BeLife Listo Solemne 2\BeLife\obj\Debug\BeLife.VentanaCrearContrato.resources
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\BeLife Listo Solemne 1 PRUEBAS BD avances 0306\Solemne 2 (BD+FORMS)\BeLife Solemne 2\BeLife Listo Solemne 2\BeLife\obj\Debug\BeLife.VentanaEliminarCliente.resources
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\BeLife Listo Solemne 1 PRUEBAS BD avances 0306\Solemne 2 (BD+FORMS)\BeLife Solemne 2\BeLife Listo Solemne 2\BeLife\obj\Debug\BeLife.VentanaListadoContratos.resources
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\BeLife Listo Solemne 1 PRUEBAS BD avances 0306\Solemne 2 (BD+FORMS)\BeLife Solemne 2\BeLife Listo Solemne 2\BeLife\obj\Debug\BeLife.VentanaMain.resources
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\BeLife Listo Solemne 1 PRUEBAS BD avances 0306\Solemne 2 (BD+FORMS)\BeLife Solemne 2\BeLife Listo Solemne 2\BeLife\obj\Debug\BeLife.Properties.Resources.resources
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\BeLife Listo Solemne 1 PRUEBAS BD avances 0306\Solemne 2 (BD+FORMS)\BeLife Solemne 2\BeLife Listo Solemne 2\BeLife\obj\Debug\BeLife.VentanaModificarCliente.resources
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\BeLife Listo Solemne 1 PRUEBAS BD avances 0306\Solemne 2 (BD+FORMS)\BeLife Solemne 2\BeLife Listo Solemne 2\BeLife\obj\Debug\BeLife.VentanaModificarContrato.resources
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\BeLife Listo Solemne 1 PRUEBAS BD avances 0306\Solemne 2 (BD+FORMS)\BeLife Solemne 2\BeLife Listo Solemne 2\BeLife\obj\Debug\BeLife.VentanaTerminarContrato.resources
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\BeLife Listo Solemne 1 PRUEBAS BD avances 0306\Solemne 2 (BD+FORMS)\BeLife Solemne 2\BeLife Listo Solemne 2\BeLife\obj\Debug\BeLife.VentanaBuscarCliente.resources
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\BeLife Listo Solemne 1 PRUEBAS BD avances 0306\Solemne 2 (BD+FORMS)\BeLife Solemne 2\BeLife Listo Solemne 2\BeLife\obj\Debug\BeLife.VentanaClientes.es-CL.resources
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\BeLife Listo Solemne 1 PRUEBAS BD avances 0306\Solemne 2 (BD+FORMS)\BeLife Solemne 2\BeLife Listo Solemne 2\BeLife\obj\Debug\ProyectoBeLife.csproj.GenerateResource.cache
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\BeLife Listo Solemne 1 PRUEBAS BD avances 0306\Solemne 2 (BD+FORMS)\BeLife Solemne 2\BeLife Listo Solemne 2\BeLife\obj\Debug\ProyectoBeLife.csproj.CoreCompileInputs.cache
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\BeLife Listo Solemne 1 PRUEBAS BD avances 0306\Solemne 2 (BD+FORMS)\BeLife Solemne 2\BeLife Listo Solemne 2\BeLife\obj\Debug\es-CL\BeLife.resources.dll
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\BeLife Listo Solemne 1 PRUEBAS BD avances 0306\Solemne 2 (BD+FORMS)\BeLife Solemne 2\BeLife Listo Solemne 2\BeLife\obj\Debug\ProyectoBeLife.csproj.CopyComplete
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\BeLife Listo Solemne 1 PRUEBAS BD avances 0306\Solemne 2 (BD+FORMS)\BeLife Solemne 2\BeLife Listo Solemne 2\BeLife\obj\Debug\BeLife.exe
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\BeLife Listo Solemne 1 PRUEBAS BD avances 0306\Solemne 2 (BD+FORMS)\BeLife Solemne 2\BeLife Listo Solemne 2\BeLife\obj\Debug\BeLife.pdb
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\BeLife Listo Solemne 1 PRUEBAS BD avances 0306\Solemne 2 (BD+FORMS)\BeLife Solemne 2\BeLife Listo Solemne 2\BeLife\obj\Debug\BeLife.VentanaListarCliente.resources
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\Solemne 2 (BD+FORMS+CONTRATOS(INCOMPLETO)+Cliente(INC))\BeLife Solemne 2\BeLife Listo Solemne 2\BeLife\bin\Debug\BeLife.exe.config
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\Solemne 2 (BD+FORMS+CONTRATOS(INCOMPLETO)+Cliente(INC))\BeLife Solemne 2\BeLife Listo Solemne 2\BeLife\bin\Debug\BeLife.exe
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\Solemne 2 (BD+FORMS+CONTRATOS(INCOMPLETO)+Cliente(INC))\BeLife Solemne 2\BeLife Listo Solemne 2\BeLife\bin\Debug\BeLife.pdb
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\Solemne 2 (BD+FORMS+CONTRATOS(INCOMPLETO)+Cliente(INC))\BeLife Solemne 2\BeLife Listo Solemne 2\BeLife\bin\Debug\es-CL\BeLife.resources.dll
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\Solemne 2 (BD+FORMS+CONTRATOS(INCOMPLETO)+Cliente(INC))\BeLife Solemne 2\BeLife Listo Solemne 2\BeLife\bin\Debug\MetroFramework.dll
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\Solemne 2 (BD+FORMS+CONTRATOS(INCOMPLETO)+Cliente(INC))\BeLife Solemne 2\BeLife Listo Solemne 2\BeLife\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\Solemne 2 (BD+FORMS+CONTRATOS(INCOMPLETO)+Cliente(INC))\BeLife Solemne 2\BeLife Listo Solemne 2\BeLife\obj\Debug\ProyectoBeLife.csprojResolveAssemblyReference.cache
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\Solemne 2 (BD+FORMS+CONTRATOS(INCOMPLETO)+Cliente(INC))\BeLife Solemne 2\BeLife Listo Solemne 2\BeLife\obj\Debug\BeLife.VentanaAgregarCliente.resources
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\Solemne 2 (BD+FORMS+CONTRATOS(INCOMPLETO)+Cliente(INC))\BeLife Solemne 2\BeLife Listo Solemne 2\BeLife\obj\Debug\BeLife.VentanaBuscarContrato.resources
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\Solemne 2 (BD+FORMS+CONTRATOS(INCOMPLETO)+Cliente(INC))\BeLife Solemne 2\BeLife Listo Solemne 2\BeLife\obj\Debug\BeLife.VentanaClientes.resources
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\Solemne 2 (BD+FORMS+CONTRATOS(INCOMPLETO)+Cliente(INC))\BeLife Solemne 2\BeLife Listo Solemne 2\BeLife\obj\Debug\BeLife.VentanaContratos.resources
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\Solemne 2 (BD+FORMS+CONTRATOS(INCOMPLETO)+Cliente(INC))\BeLife Solemne 2\BeLife Listo Solemne 2\BeLife\obj\Debug\BeLife.VentanaCrearContrato.resources
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\Solemne 2 (BD+FORMS+CONTRATOS(INCOMPLETO)+Cliente(INC))\BeLife Solemne 2\BeLife Listo Solemne 2\BeLife\obj\Debug\BeLife.VentanaEliminarCliente.resources
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\Solemne 2 (BD+FORMS+CONTRATOS(INCOMPLETO)+Cliente(INC))\BeLife Solemne 2\BeLife Listo Solemne 2\BeLife\obj\Debug\BeLife.VentanaListadoContratos.resources
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\Solemne 2 (BD+FORMS+CONTRATOS(INCOMPLETO)+Cliente(INC))\BeLife Solemne 2\BeLife Listo Solemne 2\BeLife\obj\Debug\BeLife.VentanaMain.resources
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\Solemne 2 (BD+FORMS+CONTRATOS(INCOMPLETO)+Cliente(INC))\BeLife Solemne 2\BeLife Listo Solemne 2\BeLife\obj\Debug\BeLife.Properties.Resources.resources
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\Solemne 2 (BD+FORMS+CONTRATOS(INCOMPLETO)+Cliente(INC))\BeLife Solemne 2\BeLife Listo Solemne 2\BeLife\obj\Debug\BeLife.VentanaModificarCliente.resources
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\Solemne 2 (BD+FORMS+CONTRATOS(INCOMPLETO)+Cliente(INC))\BeLife Solemne 2\BeLife Listo Solemne 2\BeLife\obj\Debug\BeLife.VentanaModificarContrato.resources
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\Solemne 2 (BD+FORMS+CONTRATOS(INCOMPLETO)+Cliente(INC))\BeLife Solemne 2\BeLife Listo Solemne 2\BeLife\obj\Debug\BeLife.VentanaTerminarContrato.resources
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\Solemne 2 (BD+FORMS+CONTRATOS(INCOMPLETO)+Cliente(INC))\BeLife Solemne 2\BeLife Listo Solemne 2\BeLife\obj\Debug\BeLife.VentanaBuscarCliente.resources
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\Solemne 2 (BD+FORMS+CONTRATOS(INCOMPLETO)+Cliente(INC))\BeLife Solemne 2\BeLife Listo Solemne 2\BeLife\obj\Debug\BeLife.VentanaListarCliente.resources
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\Solemne 2 (BD+FORMS+CONTRATOS(INCOMPLETO)+Cliente(INC))\BeLife Solemne 2\BeLife Listo Solemne 2\BeLife\obj\Debug\BeLife.VentanaClientes.es-CL.resources
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\Solemne 2 (BD+FORMS+CONTRATOS(INCOMPLETO)+Cliente(INC))\BeLife Solemne 2\BeLife Listo Solemne 2\BeLife\obj\Debug\ProyectoBeLife.csproj.GenerateResource.cache
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\Solemne 2 (BD+FORMS+CONTRATOS(INCOMPLETO)+Cliente(INC))\BeLife Solemne 2\BeLife Listo Solemne 2\BeLife\obj\Debug\ProyectoBeLife.csproj.CoreCompileInputs.cache
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\Solemne 2 (BD+FORMS+CONTRATOS(INCOMPLETO)+Cliente(INC))\BeLife Solemne 2\BeLife Listo Solemne 2\BeLife\obj\Debug\es-CL\BeLife.resources.dll
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\Solemne 2 (BD+FORMS+CONTRATOS(INCOMPLETO)+Cliente(INC))\BeLife Solemne 2\BeLife Listo Solemne 2\BeLife\obj\Debug\ProyectoBeLife.csproj.CopyComplete
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\Solemne 2 (BD+FORMS+CONTRATOS(INCOMPLETO)+Cliente(INC))\BeLife Solemne 2\BeLife Listo Solemne 2\BeLife\obj\Debug\BeLife.exe
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\Solemne 2 (BD+FORMS+CONTRATOS(INCOMPLETO)+Cliente(INC))\BeLife Solemne 2\BeLife Listo Solemne 2\BeLife\obj\Debug\BeLife.pdb
+C:\Users\cetecom\Downloads\Solemne 2 (BD+FORMS+CONTRATOS(INCOMPLETO)+Cliente(INC))\BeLife Solemne 2\BeLife Listo Solemne 2\BeLife\bin\Debug\BeLife.exe.config
+C:\Users\cetecom\Downloads\Solemne 2 (BD+FORMS+CONTRATOS(INCOMPLETO)+Cliente(INC))\BeLife Solemne 2\BeLife Listo Solemne 2\BeLife\bin\Debug\BeLife.exe
+C:\Users\cetecom\Downloads\Solemne 2 (BD+FORMS+CONTRATOS(INCOMPLETO)+Cliente(INC))\BeLife Solemne 2\BeLife Listo Solemne 2\BeLife\bin\Debug\BeLife.pdb
+C:\Users\cetecom\Downloads\Solemne 2 (BD+FORMS+CONTRATOS(INCOMPLETO)+Cliente(INC))\BeLife Solemne 2\BeLife Listo Solemne 2\BeLife\bin\Debug\es-CL\BeLife.resources.dll
+C:\Users\cetecom\Downloads\Solemne 2 (BD+FORMS+CONTRATOS(INCOMPLETO)+Cliente(INC))\BeLife Solemne 2\BeLife Listo Solemne 2\BeLife\bin\Debug\MetroFramework.dll
+C:\Users\cetecom\Downloads\Solemne 2 (BD+FORMS+CONTRATOS(INCOMPLETO)+Cliente(INC))\BeLife Solemne 2\BeLife Listo Solemne 2\BeLife\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\cetecom\Downloads\Solemne 2 (BD+FORMS+CONTRATOS(INCOMPLETO)+Cliente(INC))\BeLife Solemne 2\BeLife Listo Solemne 2\BeLife\obj\Debug\ProyectoBeLife.csprojResolveAssemblyReference.cache
+C:\Users\cetecom\Downloads\Solemne 2 (BD+FORMS+CONTRATOS(INCOMPLETO)+Cliente(INC))\BeLife Solemne 2\BeLife Listo Solemne 2\BeLife\obj\Debug\BeLife.VentanaAgregarCliente.resources
+C:\Users\cetecom\Downloads\Solemne 2 (BD+FORMS+CONTRATOS(INCOMPLETO)+Cliente(INC))\BeLife Solemne 2\BeLife Listo Solemne 2\BeLife\obj\Debug\BeLife.VentanaBuscarContrato.resources
+C:\Users\cetecom\Downloads\Solemne 2 (BD+FORMS+CONTRATOS(INCOMPLETO)+Cliente(INC))\BeLife Solemne 2\BeLife Listo Solemne 2\BeLife\obj\Debug\BeLife.VentanaClientes.resources
+C:\Users\cetecom\Downloads\Solemne 2 (BD+FORMS+CONTRATOS(INCOMPLETO)+Cliente(INC))\BeLife Solemne 2\BeLife Listo Solemne 2\BeLife\obj\Debug\BeLife.VentanaContratos.resources
+C:\Users\cetecom\Downloads\Solemne 2 (BD+FORMS+CONTRATOS(INCOMPLETO)+Cliente(INC))\BeLife Solemne 2\BeLife Listo Solemne 2\BeLife\obj\Debug\BeLife.VentanaCrearContrato.resources
+C:\Users\cetecom\Downloads\Solemne 2 (BD+FORMS+CONTRATOS(INCOMPLETO)+Cliente(INC))\BeLife Solemne 2\BeLife Listo Solemne 2\BeLife\obj\Debug\BeLife.VentanaEliminarCliente.resources
+C:\Users\cetecom\Downloads\Solemne 2 (BD+FORMS+CONTRATOS(INCOMPLETO)+Cliente(INC))\BeLife Solemne 2\BeLife Listo Solemne 2\BeLife\obj\Debug\BeLife.VentanaListadoContratos.resources
+C:\Users\cetecom\Downloads\Solemne 2 (BD+FORMS+CONTRATOS(INCOMPLETO)+Cliente(INC))\BeLife Solemne 2\BeLife Listo Solemne 2\BeLife\obj\Debug\BeLife.VentanaMain.resources
+C:\Users\cetecom\Downloads\Solemne 2 (BD+FORMS+CONTRATOS(INCOMPLETO)+Cliente(INC))\BeLife Solemne 2\BeLife Listo Solemne 2\BeLife\obj\Debug\BeLife.Properties.Resources.resources
+C:\Users\cetecom\Downloads\Solemne 2 (BD+FORMS+CONTRATOS(INCOMPLETO)+Cliente(INC))\BeLife Solemne 2\BeLife Listo Solemne 2\BeLife\obj\Debug\BeLife.VentanaModificarCliente.resources
+C:\Users\cetecom\Downloads\Solemne 2 (BD+FORMS+CONTRATOS(INCOMPLETO)+Cliente(INC))\BeLife Solemne 2\BeLife Listo Solemne 2\BeLife\obj\Debug\BeLife.VentanaModificarContrato.resources
+C:\Users\cetecom\Downloads\Solemne 2 (BD+FORMS+CONTRATOS(INCOMPLETO)+Cliente(INC))\BeLife Solemne 2\BeLife Listo Solemne 2\BeLife\obj\Debug\BeLife.VentanaTerminarContrato.resources
+C:\Users\cetecom\Downloads\Solemne 2 (BD+FORMS+CONTRATOS(INCOMPLETO)+Cliente(INC))\BeLife Solemne 2\BeLife Listo Solemne 2\BeLife\obj\Debug\BeLife.VentanaBuscarCliente.resources
+C:\Users\cetecom\Downloads\Solemne 2 (BD+FORMS+CONTRATOS(INCOMPLETO)+Cliente(INC))\BeLife Solemne 2\BeLife Listo Solemne 2\BeLife\obj\Debug\BeLife.VentanaListarCliente.resources
+C:\Users\cetecom\Downloads\Solemne 2 (BD+FORMS+CONTRATOS(INCOMPLETO)+Cliente(INC))\BeLife Solemne 2\BeLife Listo Solemne 2\BeLife\obj\Debug\BeLife.VentanaClientes.es-CL.resources
+C:\Users\cetecom\Downloads\Solemne 2 (BD+FORMS+CONTRATOS(INCOMPLETO)+Cliente(INC))\BeLife Solemne 2\BeLife Listo Solemne 2\BeLife\obj\Debug\ProyectoBeLife.csproj.GenerateResource.Cache
+C:\Users\cetecom\Downloads\Solemne 2 (BD+FORMS+CONTRATOS(INCOMPLETO)+Cliente(INC))\BeLife Solemne 2\BeLife Listo Solemne 2\BeLife\obj\Debug\ProyectoBeLife.csproj.CoreCompileInputs.cache
+C:\Users\cetecom\Downloads\Solemne 2 (BD+FORMS+CONTRATOS(INCOMPLETO)+Cliente(INC))\BeLife Solemne 2\BeLife Listo Solemne 2\BeLife\obj\Debug\es-CL\BeLife.resources.dll
+C:\Users\cetecom\Downloads\Solemne 2 (BD+FORMS+CONTRATOS(INCOMPLETO)+Cliente(INC))\BeLife Solemne 2\BeLife Listo Solemne 2\BeLife\obj\Debug\BeLife.exe
+C:\Users\cetecom\Downloads\Solemne 2 (BD+FORMS+CONTRATOS(INCOMPLETO)+Cliente(INC))\BeLife Solemne 2\BeLife Listo Solemne 2\BeLife\obj\Debug\BeLife.pdb
+C:\Users\Xkadd\Downloads\Solemne 2 avances 0706 9AM\Solemne 2 (BD+FORMS+CONTRATOS(INCOMPLETO)+Cliente(INC))\BeLife Solemne 2\BeLife Listo Solemne 2\BeLife\bin\Debug\BeLife.exe.config
+C:\Users\Xkadd\Downloads\Solemne 2 avances 0706 9AM\Solemne 2 (BD+FORMS+CONTRATOS(INCOMPLETO)+Cliente(INC))\BeLife Solemne 2\BeLife Listo Solemne 2\BeLife\bin\Debug\BeLife.exe
+C:\Users\Xkadd\Downloads\Solemne 2 avances 0706 9AM\Solemne 2 (BD+FORMS+CONTRATOS(INCOMPLETO)+Cliente(INC))\BeLife Solemne 2\BeLife Listo Solemne 2\BeLife\bin\Debug\BeLife.pdb
+C:\Users\Xkadd\Downloads\Solemne 2 avances 0706 9AM\Solemne 2 (BD+FORMS+CONTRATOS(INCOMPLETO)+Cliente(INC))\BeLife Solemne 2\BeLife Listo Solemne 2\BeLife\bin\Debug\es-CL\BeLife.resources.dll
+C:\Users\Xkadd\Downloads\Solemne 2 avances 0706 9AM\Solemne 2 (BD+FORMS+CONTRATOS(INCOMPLETO)+Cliente(INC))\BeLife Solemne 2\BeLife Listo Solemne 2\BeLife\bin\Debug\MetroFramework.dll
+C:\Users\Xkadd\Downloads\Solemne 2 avances 0706 9AM\Solemne 2 (BD+FORMS+CONTRATOS(INCOMPLETO)+Cliente(INC))\BeLife Solemne 2\BeLife Listo Solemne 2\BeLife\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Xkadd\Downloads\Solemne 2 avances 0706 9AM\Solemne 2 (BD+FORMS+CONTRATOS(INCOMPLETO)+Cliente(INC))\BeLife Solemne 2\BeLife Listo Solemne 2\BeLife\obj\Debug\ProyectoBeLife.csprojResolveAssemblyReference.cache
+C:\Users\Xkadd\Downloads\Solemne 2 avances 0706 9AM\Solemne 2 (BD+FORMS+CONTRATOS(INCOMPLETO)+Cliente(INC))\BeLife Solemne 2\BeLife Listo Solemne 2\BeLife\obj\Debug\BeLife.VentanaAgregarCliente.resources
+C:\Users\Xkadd\Downloads\Solemne 2 avances 0706 9AM\Solemne 2 (BD+FORMS+CONTRATOS(INCOMPLETO)+Cliente(INC))\BeLife Solemne 2\BeLife Listo Solemne 2\BeLife\obj\Debug\BeLife.VentanaBuscarContrato.resources
+C:\Users\Xkadd\Downloads\Solemne 2 avances 0706 9AM\Solemne 2 (BD+FORMS+CONTRATOS(INCOMPLETO)+Cliente(INC))\BeLife Solemne 2\BeLife Listo Solemne 2\BeLife\obj\Debug\BeLife.VentanaClientes.resources
+C:\Users\Xkadd\Downloads\Solemne 2 avances 0706 9AM\Solemne 2 (BD+FORMS+CONTRATOS(INCOMPLETO)+Cliente(INC))\BeLife Solemne 2\BeLife Listo Solemne 2\BeLife\obj\Debug\BeLife.VentanaContratos.resources
+C:\Users\Xkadd\Downloads\Solemne 2 avances 0706 9AM\Solemne 2 (BD+FORMS+CONTRATOS(INCOMPLETO)+Cliente(INC))\BeLife Solemne 2\BeLife Listo Solemne 2\BeLife\obj\Debug\BeLife.VentanaCrearContrato.resources
+C:\Users\Xkadd\Downloads\Solemne 2 avances 0706 9AM\Solemne 2 (BD+FORMS+CONTRATOS(INCOMPLETO)+Cliente(INC))\BeLife Solemne 2\BeLife Listo Solemne 2\BeLife\obj\Debug\BeLife.VentanaEliminarCliente.resources
+C:\Users\Xkadd\Downloads\Solemne 2 avances 0706 9AM\Solemne 2 (BD+FORMS+CONTRATOS(INCOMPLETO)+Cliente(INC))\BeLife Solemne 2\BeLife Listo Solemne 2\BeLife\obj\Debug\BeLife.VentanaListadoContratos.resources
+C:\Users\Xkadd\Downloads\Solemne 2 avances 0706 9AM\Solemne 2 (BD+FORMS+CONTRATOS(INCOMPLETO)+Cliente(INC))\BeLife Solemne 2\BeLife Listo Solemne 2\BeLife\obj\Debug\BeLife.VentanaMain.resources
+C:\Users\Xkadd\Downloads\Solemne 2 avances 0706 9AM\Solemne 2 (BD+FORMS+CONTRATOS(INCOMPLETO)+Cliente(INC))\BeLife Solemne 2\BeLife Listo Solemne 2\BeLife\obj\Debug\BeLife.Properties.Resources.resources
+C:\Users\Xkadd\Downloads\Solemne 2 avances 0706 9AM\Solemne 2 (BD+FORMS+CONTRATOS(INCOMPLETO)+Cliente(INC))\BeLife Solemne 2\BeLife Listo Solemne 2\BeLife\obj\Debug\BeLife.VentanaModificarCliente.resources
+C:\Users\Xkadd\Downloads\Solemne 2 avances 0706 9AM\Solemne 2 (BD+FORMS+CONTRATOS(INCOMPLETO)+Cliente(INC))\BeLife Solemne 2\BeLife Listo Solemne 2\BeLife\obj\Debug\BeLife.VentanaModificarContrato.resources
+C:\Users\Xkadd\Downloads\Solemne 2 avances 0706 9AM\Solemne 2 (BD+FORMS+CONTRATOS(INCOMPLETO)+Cliente(INC))\BeLife Solemne 2\BeLife Listo Solemne 2\BeLife\obj\Debug\BeLife.VentanaTerminarContrato.resources
+C:\Users\Xkadd\Downloads\Solemne 2 avances 0706 9AM\Solemne 2 (BD+FORMS+CONTRATOS(INCOMPLETO)+Cliente(INC))\BeLife Solemne 2\BeLife Listo Solemne 2\BeLife\obj\Debug\BeLife.VentanaBuscarCliente.resources
+C:\Users\Xkadd\Downloads\Solemne 2 avances 0706 9AM\Solemne 2 (BD+FORMS+CONTRATOS(INCOMPLETO)+Cliente(INC))\BeLife Solemne 2\BeLife Listo Solemne 2\BeLife\obj\Debug\BeLife.VentanaListarCliente.resources
+C:\Users\Xkadd\Downloads\Solemne 2 avances 0706 9AM\Solemne 2 (BD+FORMS+CONTRATOS(INCOMPLETO)+Cliente(INC))\BeLife Solemne 2\BeLife Listo Solemne 2\BeLife\obj\Debug\BeLife.VentanaClientes.es-CL.resources
+C:\Users\Xkadd\Downloads\Solemne 2 avances 0706 9AM\Solemne 2 (BD+FORMS+CONTRATOS(INCOMPLETO)+Cliente(INC))\BeLife Solemne 2\BeLife Listo Solemne 2\BeLife\obj\Debug\ProyectoBeLife.csproj.GenerateResource.cache
+C:\Users\Xkadd\Downloads\Solemne 2 avances 0706 9AM\Solemne 2 (BD+FORMS+CONTRATOS(INCOMPLETO)+Cliente(INC))\BeLife Solemne 2\BeLife Listo Solemne 2\BeLife\obj\Debug\ProyectoBeLife.csproj.CoreCompileInputs.cache
+C:\Users\Xkadd\Downloads\Solemne 2 avances 0706 9AM\Solemne 2 (BD+FORMS+CONTRATOS(INCOMPLETO)+Cliente(INC))\BeLife Solemne 2\BeLife Listo Solemne 2\BeLife\obj\Debug\es-CL\BeLife.resources.dll
+C:\Users\Xkadd\Downloads\Solemne 2 avances 0706 9AM\Solemne 2 (BD+FORMS+CONTRATOS(INCOMPLETO)+Cliente(INC))\BeLife Solemne 2\BeLife Listo Solemne 2\BeLife\obj\Debug\ProyectoBeLife.csproj.CopyComplete
+C:\Users\Xkadd\Downloads\Solemne 2 avances 0706 9AM\Solemne 2 (BD+FORMS+CONTRATOS(INCOMPLETO)+Cliente(INC))\BeLife Solemne 2\BeLife Listo Solemne 2\BeLife\obj\Debug\BeLife.exe
+C:\Users\Xkadd\Downloads\Solemne 2 avances 0706 9AM\Solemne 2 (BD+FORMS+CONTRATOS(INCOMPLETO)+Cliente(INC))\BeLife Solemne 2\BeLife Listo Solemne 2\BeLife\obj\Debug\BeLife.pdb
+C:\Users\Xkadd\Downloads\Solemne 2 avances 0706 11AM(1)\Solemne 2 avances 0706 9AM\Solemne 2 (BD+FORMS+CONTRATOS(INCOMPLETO)+Cliente(INC))\BeLife Solemne 2\BeLife Listo Solemne 2\BeLife\bin\Debug\BeLife.exe.config
+C:\Users\Xkadd\Downloads\Solemne 2 avances 0706 11AM(1)\Solemne 2 avances 0706 9AM\Solemne 2 (BD+FORMS+CONTRATOS(INCOMPLETO)+Cliente(INC))\BeLife Solemne 2\BeLife Listo Solemne 2\BeLife\bin\Debug\BeLife.exe
+C:\Users\Xkadd\Downloads\Solemne 2 avances 0706 11AM(1)\Solemne 2 avances 0706 9AM\Solemne 2 (BD+FORMS+CONTRATOS(INCOMPLETO)+Cliente(INC))\BeLife Solemne 2\BeLife Listo Solemne 2\BeLife\bin\Debug\BeLife.pdb
+C:\Users\Xkadd\Downloads\Solemne 2 avances 0706 11AM(1)\Solemne 2 avances 0706 9AM\Solemne 2 (BD+FORMS+CONTRATOS(INCOMPLETO)+Cliente(INC))\BeLife Solemne 2\BeLife Listo Solemne 2\BeLife\bin\Debug\es-CL\BeLife.resources.dll
+C:\Users\Xkadd\Downloads\Solemne 2 avances 0706 11AM(1)\Solemne 2 avances 0706 9AM\Solemne 2 (BD+FORMS+CONTRATOS(INCOMPLETO)+Cliente(INC))\BeLife Solemne 2\BeLife Listo Solemne 2\BeLife\bin\Debug\MetroFramework.dll
+C:\Users\Xkadd\Downloads\Solemne 2 avances 0706 11AM(1)\Solemne 2 avances 0706 9AM\Solemne 2 (BD+FORMS+CONTRATOS(INCOMPLETO)+Cliente(INC))\BeLife Solemne 2\BeLife Listo Solemne 2\BeLife\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Xkadd\Downloads\Solemne 2 avances 0706 11AM(1)\Solemne 2 avances 0706 9AM\Solemne 2 (BD+FORMS+CONTRATOS(INCOMPLETO)+Cliente(INC))\BeLife Solemne 2\BeLife Listo Solemne 2\BeLife\obj\Debug\ProyectoBeLife.csprojResolveAssemblyReference.cache
+C:\Users\Xkadd\Downloads\Solemne 2 avances 0706 11AM(1)\Solemne 2 avances 0706 9AM\Solemne 2 (BD+FORMS+CONTRATOS(INCOMPLETO)+Cliente(INC))\BeLife Solemne 2\BeLife Listo Solemne 2\BeLife\obj\Debug\BeLife.VentanaAgregarCliente.resources
+C:\Users\Xkadd\Downloads\Solemne 2 avances 0706 11AM(1)\Solemne 2 avances 0706 9AM\Solemne 2 (BD+FORMS+CONTRATOS(INCOMPLETO)+Cliente(INC))\BeLife Solemne 2\BeLife Listo Solemne 2\BeLife\obj\Debug\BeLife.VentanaBuscarContrato.resources
+C:\Users\Xkadd\Downloads\Solemne 2 avances 0706 11AM(1)\Solemne 2 avances 0706 9AM\Solemne 2 (BD+FORMS+CONTRATOS(INCOMPLETO)+Cliente(INC))\BeLife Solemne 2\BeLife Listo Solemne 2\BeLife\obj\Debug\BeLife.VentanaClientes.resources
+C:\Users\Xkadd\Downloads\Solemne 2 avances 0706 11AM(1)\Solemne 2 avances 0706 9AM\Solemne 2 (BD+FORMS+CONTRATOS(INCOMPLETO)+Cliente(INC))\BeLife Solemne 2\BeLife Listo Solemne 2\BeLife\obj\Debug\BeLife.VentanaContratos.resources
+C:\Users\Xkadd\Downloads\Solemne 2 avances 0706 11AM(1)\Solemne 2 avances 0706 9AM\Solemne 2 (BD+FORMS+CONTRATOS(INCOMPLETO)+Cliente(INC))\BeLife Solemne 2\BeLife Listo Solemne 2\BeLife\obj\Debug\BeLife.VentanaCrearContrato.resources
+C:\Users\Xkadd\Downloads\Solemne 2 avances 0706 11AM(1)\Solemne 2 avances 0706 9AM\Solemne 2 (BD+FORMS+CONTRATOS(INCOMPLETO)+Cliente(INC))\BeLife Solemne 2\BeLife Listo Solemne 2\BeLife\obj\Debug\BeLife.VentanaEliminarCliente.resources
+C:\Users\Xkadd\Downloads\Solemne 2 avances 0706 11AM(1)\Solemne 2 avances 0706 9AM\Solemne 2 (BD+FORMS+CONTRATOS(INCOMPLETO)+Cliente(INC))\BeLife Solemne 2\BeLife Listo Solemne 2\BeLife\obj\Debug\BeLife.VentanaListadoContratos.resources
+C:\Users\Xkadd\Downloads\Solemne 2 avances 0706 11AM(1)\Solemne 2 avances 0706 9AM\Solemne 2 (BD+FORMS+CONTRATOS(INCOMPLETO)+Cliente(INC))\BeLife Solemne 2\BeLife Listo Solemne 2\BeLife\obj\Debug\BeLife.VentanaMain.resources
+C:\Users\Xkadd\Downloads\Solemne 2 avances 0706 11AM(1)\Solemne 2 avances 0706 9AM\Solemne 2 (BD+FORMS+CONTRATOS(INCOMPLETO)+Cliente(INC))\BeLife Solemne 2\BeLife Listo Solemne 2\BeLife\obj\Debug\BeLife.Properties.Resources.resources
+C:\Users\Xkadd\Downloads\Solemne 2 avances 0706 11AM(1)\Solemne 2 avances 0706 9AM\Solemne 2 (BD+FORMS+CONTRATOS(INCOMPLETO)+Cliente(INC))\BeLife Solemne 2\BeLife Listo Solemne 2\BeLife\obj\Debug\BeLife.VentanaModificarCliente.resources
+C:\Users\Xkadd\Downloads\Solemne 2 avances 0706 11AM(1)\Solemne 2 avances 0706 9AM\Solemne 2 (BD+FORMS+CONTRATOS(INCOMPLETO)+Cliente(INC))\BeLife Solemne 2\BeLife Listo Solemne 2\BeLife\obj\Debug\BeLife.VentanaModificarContrato.resources
+C:\Users\Xkadd\Downloads\Solemne 2 avances 0706 11AM(1)\Solemne 2 avances 0706 9AM\Solemne 2 (BD+FORMS+CONTRATOS(INCOMPLETO)+Cliente(INC))\BeLife Solemne 2\BeLife Listo Solemne 2\BeLife\obj\Debug\BeLife.VentanaTerminarContrato.resources
+C:\Users\Xkadd\Downloads\Solemne 2 avances 0706 11AM(1)\Solemne 2 avances 0706 9AM\Solemne 2 (BD+FORMS+CONTRATOS(INCOMPLETO)+Cliente(INC))\BeLife Solemne 2\BeLife Listo Solemne 2\BeLife\obj\Debug\BeLife.VentanaBuscarCliente.resources
+C:\Users\Xkadd\Downloads\Solemne 2 avances 0706 11AM(1)\Solemne 2 avances 0706 9AM\Solemne 2 (BD+FORMS+CONTRATOS(INCOMPLETO)+Cliente(INC))\BeLife Solemne 2\BeLife Listo Solemne 2\BeLife\obj\Debug\BeLife.VentanaListarCliente.resources
+C:\Users\Xkadd\Downloads\Solemne 2 avances 0706 11AM(1)\Solemne 2 avances 0706 9AM\Solemne 2 (BD+FORMS+CONTRATOS(INCOMPLETO)+Cliente(INC))\BeLife Solemne 2\BeLife Listo Solemne 2\BeLife\obj\Debug\BeLife.VentanaClientes.es-CL.resources
+C:\Users\Xkadd\Downloads\Solemne 2 avances 0706 11AM(1)\Solemne 2 avances 0706 9AM\Solemne 2 (BD+FORMS+CONTRATOS(INCOMPLETO)+Cliente(INC))\BeLife Solemne 2\BeLife Listo Solemne 2\BeLife\obj\Debug\ProyectoBeLife.csproj.GenerateResource.cache
+C:\Users\Xkadd\Downloads\Solemne 2 avances 0706 11AM(1)\Solemne 2 avances 0706 9AM\Solemne 2 (BD+FORMS+CONTRATOS(INCOMPLETO)+Cliente(INC))\BeLife Solemne 2\BeLife Listo Solemne 2\BeLife\obj\Debug\ProyectoBeLife.csproj.CoreCompileInputs.cache
+C:\Users\Xkadd\Downloads\Solemne 2 avances 0706 11AM(1)\Solemne 2 avances 0706 9AM\Solemne 2 (BD+FORMS+CONTRATOS(INCOMPLETO)+Cliente(INC))\BeLife Solemne 2\BeLife Listo Solemne 2\BeLife\obj\Debug\es-CL\BeLife.resources.dll
+C:\Users\Xkadd\Downloads\Solemne 2 avances 0706 11AM(1)\Solemne 2 avances 0706 9AM\Solemne 2 (BD+FORMS+CONTRATOS(INCOMPLETO)+Cliente(INC))\BeLife Solemne 2\BeLife Listo Solemne 2\BeLife\obj\Debug\ProyectoBeLife.csproj.CopyComplete
+C:\Users\Xkadd\Downloads\Solemne 2 avances 0706 11AM(1)\Solemne 2 avances 0706 9AM\Solemne 2 (BD+FORMS+CONTRATOS(INCOMPLETO)+Cliente(INC))\BeLife Solemne 2\BeLife Listo Solemne 2\BeLife\obj\Debug\BeLife.exe
+C:\Users\Xkadd\Downloads\Solemne 2 avances 0706 11AM(1)\Solemne 2 avances 0706 9AM\Solemne 2 (BD+FORMS+CONTRATOS(INCOMPLETO)+Cliente(INC))\BeLife Solemne 2\BeLife Listo Solemne 2\BeLife\obj\Debug\BeLife.pdb
+E:\Archivos C# Duoc\Solemne 2 avances 0706 13PM\Solemne 2 avances 0706 13PM\Solemne 2 (BD+FORMS+CONTRATOS(INCOMPLETO)+Cliente(INC))\BeLife Solemne 2\BeLife Listo Solemne 2\BeLife\bin\Debug\BeLife.exe.config
+E:\Archivos C# Duoc\Solemne 2 avances 0706 13PM\Solemne 2 avances 0706 13PM\Solemne 2 (BD+FORMS+CONTRATOS(INCOMPLETO)+Cliente(INC))\BeLife Solemne 2\BeLife Listo Solemne 2\BeLife\bin\Debug\BeLife.exe
+E:\Archivos C# Duoc\Solemne 2 avances 0706 13PM\Solemne 2 avances 0706 13PM\Solemne 2 (BD+FORMS+CONTRATOS(INCOMPLETO)+Cliente(INC))\BeLife Solemne 2\BeLife Listo Solemne 2\BeLife\bin\Debug\BeLife.pdb
+E:\Archivos C# Duoc\Solemne 2 avances 0706 13PM\Solemne 2 avances 0706 13PM\Solemne 2 (BD+FORMS+CONTRATOS(INCOMPLETO)+Cliente(INC))\BeLife Solemne 2\BeLife Listo Solemne 2\BeLife\bin\Debug\es-CL\BeLife.resources.dll
+E:\Archivos C# Duoc\Solemne 2 avances 0706 13PM\Solemne 2 avances 0706 13PM\Solemne 2 (BD+FORMS+CONTRATOS(INCOMPLETO)+Cliente(INC))\BeLife Solemne 2\BeLife Listo Solemne 2\BeLife\bin\Debug\MetroFramework.dll
+E:\Archivos C# Duoc\Solemne 2 avances 0706 13PM\Solemne 2 avances 0706 13PM\Solemne 2 (BD+FORMS+CONTRATOS(INCOMPLETO)+Cliente(INC))\BeLife Solemne 2\BeLife Listo Solemne 2\BeLife\bin\Debug\MetroFramework.Fonts.dll
+E:\Archivos C# Duoc\Solemne 2 avances 0706 13PM\Solemne 2 avances 0706 13PM\Solemne 2 (BD+FORMS+CONTRATOS(INCOMPLETO)+Cliente(INC))\BeLife Solemne 2\BeLife Listo Solemne 2\BeLife\obj\Debug\ProyectoBeLife.csprojResolveAssemblyReference.cache
+E:\Archivos C# Duoc\Solemne 2 avances 0706 13PM\Solemne 2 avances 0706 13PM\Solemne 2 (BD+FORMS+CONTRATOS(INCOMPLETO)+Cliente(INC))\BeLife Solemne 2\BeLife Listo Solemne 2\BeLife\obj\Debug\BeLife.VentanaAgregarCliente.resources
+E:\Archivos C# Duoc\Solemne 2 avances 0706 13PM\Solemne 2 avances 0706 13PM\Solemne 2 (BD+FORMS+CONTRATOS(INCOMPLETO)+Cliente(INC))\BeLife Solemne 2\BeLife Listo Solemne 2\BeLife\obj\Debug\BeLife.VentanaBuscarContrato.resources
+E:\Archivos C# Duoc\Solemne 2 avances 0706 13PM\Solemne 2 avances 0706 13PM\Solemne 2 (BD+FORMS+CONTRATOS(INCOMPLETO)+Cliente(INC))\BeLife Solemne 2\BeLife Listo Solemne 2\BeLife\obj\Debug\BeLife.VentanaClientes.resources
+E:\Archivos C# Duoc\Solemne 2 avances 0706 13PM\Solemne 2 avances 0706 13PM\Solemne 2 (BD+FORMS+CONTRATOS(INCOMPLETO)+Cliente(INC))\BeLife Solemne 2\BeLife Listo Solemne 2\BeLife\obj\Debug\BeLife.VentanaContratos.resources
+E:\Archivos C# Duoc\Solemne 2 avances 0706 13PM\Solemne 2 avances 0706 13PM\Solemne 2 (BD+FORMS+CONTRATOS(INCOMPLETO)+Cliente(INC))\BeLife Solemne 2\BeLife Listo Solemne 2\BeLife\obj\Debug\BeLife.VentanaCrearContrato.resources
+E:\Archivos C# Duoc\Solemne 2 avances 0706 13PM\Solemne 2 avances 0706 13PM\Solemne 2 (BD+FORMS+CONTRATOS(INCOMPLETO)+Cliente(INC))\BeLife Solemne 2\BeLife Listo Solemne 2\BeLife\obj\Debug\BeLife.VentanaEliminarCliente.resources
+E:\Archivos C# Duoc\Solemne 2 avances 0706 13PM\Solemne 2 avances 0706 13PM\Solemne 2 (BD+FORMS+CONTRATOS(INCOMPLETO)+Cliente(INC))\BeLife Solemne 2\BeLife Listo Solemne 2\BeLife\obj\Debug\BeLife.VentanaListadoContratos.resources
+E:\Archivos C# Duoc\Solemne 2 avances 0706 13PM\Solemne 2 avances 0706 13PM\Solemne 2 (BD+FORMS+CONTRATOS(INCOMPLETO)+Cliente(INC))\BeLife Solemne 2\BeLife Listo Solemne 2\BeLife\obj\Debug\BeLife.VentanaMain.resources
+E:\Archivos C# Duoc\Solemne 2 avances 0706 13PM\Solemne 2 avances 0706 13PM\Solemne 2 (BD+FORMS+CONTRATOS(INCOMPLETO)+Cliente(INC))\BeLife Solemne 2\BeLife Listo Solemne 2\BeLife\obj\Debug\BeLife.Properties.Resources.resources
+E:\Archivos C# Duoc\Solemne 2 avances 0706 13PM\Solemne 2 avances 0706 13PM\Solemne 2 (BD+FORMS+CONTRATOS(INCOMPLETO)+Cliente(INC))\BeLife Solemne 2\BeLife Listo Solemne 2\BeLife\obj\Debug\BeLife.VentanaModificarCliente.resources
+E:\Archivos C# Duoc\Solemne 2 avances 0706 13PM\Solemne 2 avances 0706 13PM\Solemne 2 (BD+FORMS+CONTRATOS(INCOMPLETO)+Cliente(INC))\BeLife Solemne 2\BeLife Listo Solemne 2\BeLife\obj\Debug\BeLife.VentanaModificarContrato.resources
+E:\Archivos C# Duoc\Solemne 2 avances 0706 13PM\Solemne 2 avances 0706 13PM\Solemne 2 (BD+FORMS+CONTRATOS(INCOMPLETO)+Cliente(INC))\BeLife Solemne 2\BeLife Listo Solemne 2\BeLife\obj\Debug\BeLife.VentanaTerminarContrato.resources
+E:\Archivos C# Duoc\Solemne 2 avances 0706 13PM\Solemne 2 avances 0706 13PM\Solemne 2 (BD+FORMS+CONTRATOS(INCOMPLETO)+Cliente(INC))\BeLife Solemne 2\BeLife Listo Solemne 2\BeLife\obj\Debug\BeLife.VentanaBuscarCliente.resources
+E:\Archivos C# Duoc\Solemne 2 avances 0706 13PM\Solemne 2 avances 0706 13PM\Solemne 2 (BD+FORMS+CONTRATOS(INCOMPLETO)+Cliente(INC))\BeLife Solemne 2\BeLife Listo Solemne 2\BeLife\obj\Debug\BeLife.VentanaListarCliente.resources
+E:\Archivos C# Duoc\Solemne 2 avances 0706 13PM\Solemne 2 avances 0706 13PM\Solemne 2 (BD+FORMS+CONTRATOS(INCOMPLETO)+Cliente(INC))\BeLife Solemne 2\BeLife Listo Solemne 2\BeLife\obj\Debug\BeLife.VentanaClientes.es-CL.resources
+E:\Archivos C# Duoc\Solemne 2 avances 0706 13PM\Solemne 2 avances 0706 13PM\Solemne 2 (BD+FORMS+CONTRATOS(INCOMPLETO)+Cliente(INC))\BeLife Solemne 2\BeLife Listo Solemne 2\BeLife\obj\Debug\ProyectoBeLife.csproj.GenerateResource.Cache
+E:\Archivos C# Duoc\Solemne 2 avances 0706 13PM\Solemne 2 avances 0706 13PM\Solemne 2 (BD+FORMS+CONTRATOS(INCOMPLETO)+Cliente(INC))\BeLife Solemne 2\BeLife Listo Solemne 2\BeLife\obj\Debug\ProyectoBeLife.csproj.CoreCompileInputs.cache
+E:\Archivos C# Duoc\Solemne 2 avances 0706 13PM\Solemne 2 avances 0706 13PM\Solemne 2 (BD+FORMS+CONTRATOS(INCOMPLETO)+Cliente(INC))\BeLife Solemne 2\BeLife Listo Solemne 2\BeLife\obj\Debug\es-CL\BeLife.resources.dll
+E:\Archivos C# Duoc\Solemne 2 avances 0706 13PM\Solemne 2 avances 0706 13PM\Solemne 2 (BD+FORMS+CONTRATOS(INCOMPLETO)+Cliente(INC))\BeLife Solemne 2\BeLife Listo Solemne 2\BeLife\obj\Debug\BeLife.exe
+E:\Archivos C# Duoc\Solemne 2 avances 0706 13PM\Solemne 2 avances 0706 13PM\Solemne 2 (BD+FORMS+CONTRATOS(INCOMPLETO)+Cliente(INC))\BeLife Solemne 2\BeLife Listo Solemne 2\BeLife\obj\Debug\BeLife.pdb
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Solemne 2 COMPLETO Ffrench y Aedo (1)\BeLife Listo Solemne 2\BeLife\bin\Debug\BeLife.exe.config
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Solemne 2 COMPLETO Ffrench y Aedo (1)\BeLife Listo Solemne 2\BeLife\bin\Debug\BeLife.exe
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Solemne 2 COMPLETO Ffrench y Aedo (1)\BeLife Listo Solemne 2\BeLife\bin\Debug\BeLife.pdb
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Solemne 2 COMPLETO Ffrench y Aedo (1)\BeLife Listo Solemne 2\BeLife\bin\Debug\es-CL\BeLife.resources.dll
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Solemne 2 COMPLETO Ffrench y Aedo (1)\BeLife Listo Solemne 2\BeLife\bin\Debug\MetroFramework.dll
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Solemne 2 COMPLETO Ffrench y Aedo (1)\BeLife Listo Solemne 2\BeLife\bin\Debug\MetroFramework.Fonts.dll
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Solemne 2 COMPLETO Ffrench y Aedo (1)\BeLife Listo Solemne 2\BeLife\obj\Debug\ProyectoBeLife.csprojAssemblyReference.cache
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Solemne 2 COMPLETO Ffrench y Aedo (1)\BeLife Listo Solemne 2\BeLife\obj\Debug\BeLife.VentanaAgregarCliente.resources
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Solemne 2 COMPLETO Ffrench y Aedo (1)\BeLife Listo Solemne 2\BeLife\obj\Debug\BeLife.VentanaBuscarContrato.resources
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Solemne 2 COMPLETO Ffrench y Aedo (1)\BeLife Listo Solemne 2\BeLife\obj\Debug\BeLife.VentanaClientes.resources
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Solemne 2 COMPLETO Ffrench y Aedo (1)\BeLife Listo Solemne 2\BeLife\obj\Debug\BeLife.VentanaContratos.resources
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Solemne 2 COMPLETO Ffrench y Aedo (1)\BeLife Listo Solemne 2\BeLife\obj\Debug\BeLife.VentanaCrearContrato.resources
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Solemne 2 COMPLETO Ffrench y Aedo (1)\BeLife Listo Solemne 2\BeLife\obj\Debug\BeLife.VentanaEliminarCliente.resources
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Solemne 2 COMPLETO Ffrench y Aedo (1)\BeLife Listo Solemne 2\BeLife\obj\Debug\BeLife.VentanaListadoContratos.resources
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Solemne 2 COMPLETO Ffrench y Aedo (1)\BeLife Listo Solemne 2\BeLife\obj\Debug\BeLife.VentanaMain.resources
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Solemne 2 COMPLETO Ffrench y Aedo (1)\BeLife Listo Solemne 2\BeLife\obj\Debug\BeLife.Properties.Resources.resources
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Solemne 2 COMPLETO Ffrench y Aedo (1)\BeLife Listo Solemne 2\BeLife\obj\Debug\BeLife.VentanaModificarCliente.resources
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Solemne 2 COMPLETO Ffrench y Aedo (1)\BeLife Listo Solemne 2\BeLife\obj\Debug\BeLife.VentanaModificarContrato.resources
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Solemne 2 COMPLETO Ffrench y Aedo (1)\BeLife Listo Solemne 2\BeLife\obj\Debug\BeLife.VentanaTerminarContrato.resources
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Solemne 2 COMPLETO Ffrench y Aedo (1)\BeLife Listo Solemne 2\BeLife\obj\Debug\BeLife.VentanaBuscarCliente.resources
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Solemne 2 COMPLETO Ffrench y Aedo (1)\BeLife Listo Solemne 2\BeLife\obj\Debug\BeLife.VentanaListarCliente.resources
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Solemne 2 COMPLETO Ffrench y Aedo (1)\BeLife Listo Solemne 2\BeLife\obj\Debug\BeLife.VentanaClientes.es-CL.resources
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Solemne 2 COMPLETO Ffrench y Aedo (1)\BeLife Listo Solemne 2\BeLife\obj\Debug\ProyectoBeLife.csproj.GenerateResource.cache
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Solemne 2 COMPLETO Ffrench y Aedo (1)\BeLife Listo Solemne 2\BeLife\obj\Debug\ProyectoBeLife.csproj.CoreCompileInputs.cache
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Solemne 2 COMPLETO Ffrench y Aedo (1)\BeLife Listo Solemne 2\BeLife\obj\Debug\es-CL\BeLife.resources.dll
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Solemne 2 COMPLETO Ffrench y Aedo (1)\BeLife Listo Solemne 2\BeLife\obj\Debug\ProyectoBeLife.csproj.CopyComplete
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Solemne 2 COMPLETO Ffrench y Aedo (1)\BeLife Listo Solemne 2\BeLife\obj\Debug\BeLife.exe
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Solemne 2 COMPLETO Ffrench y Aedo (1)\BeLife Listo Solemne 2\BeLife\obj\Debug\BeLife.pdb
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\Solemne 2 COMPLETO Ffrench y Aedo (1)\BeLife Listo Solemne 2\BeLife\bin\Debug\BeLife.exe.config
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\Solemne 2 COMPLETO Ffrench y Aedo (1)\BeLife Listo Solemne 2\BeLife\bin\Debug\BeLife.exe
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\Solemne 2 COMPLETO Ffrench y Aedo (1)\BeLife Listo Solemne 2\BeLife\bin\Debug\BeLife.pdb
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\Solemne 2 COMPLETO Ffrench y Aedo (1)\BeLife Listo Solemne 2\BeLife\bin\Debug\es-CL\BeLife.resources.dll
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\Solemne 2 COMPLETO Ffrench y Aedo (1)\BeLife Listo Solemne 2\BeLife\bin\Debug\MetroFramework.dll
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\Solemne 2 COMPLETO Ffrench y Aedo (1)\BeLife Listo Solemne 2\BeLife\bin\Debug\MetroFramework.Fonts.dll
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\Solemne 2 COMPLETO Ffrench y Aedo (1)\BeLife Listo Solemne 2\BeLife\obj\Debug\ProyectoBeLife.csprojAssemblyReference.cache
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\Solemne 2 COMPLETO Ffrench y Aedo (1)\BeLife Listo Solemne 2\BeLife\obj\Debug\BeLife.VentanaAgregarCliente.resources
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\Solemne 2 COMPLETO Ffrench y Aedo (1)\BeLife Listo Solemne 2\BeLife\obj\Debug\BeLife.VentanaBuscarContrato.resources
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\Solemne 2 COMPLETO Ffrench y Aedo (1)\BeLife Listo Solemne 2\BeLife\obj\Debug\BeLife.VentanaClientes.resources
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\Solemne 2 COMPLETO Ffrench y Aedo (1)\BeLife Listo Solemne 2\BeLife\obj\Debug\BeLife.VentanaContratos.resources
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\Solemne 2 COMPLETO Ffrench y Aedo (1)\BeLife Listo Solemne 2\BeLife\obj\Debug\BeLife.VentanaCrearContrato.resources
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\Solemne 2 COMPLETO Ffrench y Aedo (1)\BeLife Listo Solemne 2\BeLife\obj\Debug\BeLife.VentanaEliminarCliente.resources
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\Solemne 2 COMPLETO Ffrench y Aedo (1)\BeLife Listo Solemne 2\BeLife\obj\Debug\BeLife.VentanaListadoContratos.resources
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\Solemne 2 COMPLETO Ffrench y Aedo (1)\BeLife Listo Solemne 2\BeLife\obj\Debug\BeLife.VentanaMain.resources
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\Solemne 2 COMPLETO Ffrench y Aedo (1)\BeLife Listo Solemne 2\BeLife\obj\Debug\BeLife.Properties.Resources.resources
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\Solemne 2 COMPLETO Ffrench y Aedo (1)\BeLife Listo Solemne 2\BeLife\obj\Debug\BeLife.VentanaModificarCliente.resources
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\Solemne 2 COMPLETO Ffrench y Aedo (1)\BeLife Listo Solemne 2\BeLife\obj\Debug\BeLife.VentanaModificarContrato.resources
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\Solemne 2 COMPLETO Ffrench y Aedo (1)\BeLife Listo Solemne 2\BeLife\obj\Debug\BeLife.VentanaBuscarCliente.resources
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\Solemne 2 COMPLETO Ffrench y Aedo (1)\BeLife Listo Solemne 2\BeLife\obj\Debug\BeLife.VentanaClientes.es-CL.resources
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\Solemne 2 COMPLETO Ffrench y Aedo (1)\BeLife Listo Solemne 2\BeLife\obj\Debug\ProyectoBeLife.csproj.GenerateResource.cache
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\Solemne 2 COMPLETO Ffrench y Aedo (1)\BeLife Listo Solemne 2\BeLife\obj\Debug\ProyectoBeLife.csproj.CoreCompileInputs.cache
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\Solemne 2 COMPLETO Ffrench y Aedo (1)\BeLife Listo Solemne 2\BeLife\obj\Debug\es-CL\BeLife.resources.dll
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\Solemne 2 COMPLETO Ffrench y Aedo (1)\BeLife Listo Solemne 2\BeLife\obj\Debug\ProyectoBeLife.csproj.CopyComplete
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\Solemne 2 COMPLETO Ffrench y Aedo (1)\BeLife Listo Solemne 2\BeLife\obj\Debug\BeLife.exe
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\Solemne 2 COMPLETO Ffrench y Aedo (1)\BeLife Listo Solemne 2\BeLife\obj\Debug\BeLife.pdb
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\Solemne 2 COMPLETO Ffrench y Aedo (1)\BeLife Listo Solemne 2\BeLife\bin\Debug\MetroFramework.Design.dll
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\Solemne 2 COMPLETO Ffrench y Aedo (1)\BeLife Listo Solemne 2\BeLife\obj\Debug\BeLife.BuscarHogar.resources
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\Solemne 2 COMPLETO Ffrench y Aedo (1)\BeLife Listo Solemne 2\BeLife\obj\Debug\BeLife.EliminarHogar.resources
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\Solemne 2 COMPLETO Ffrench y Aedo (1)\BeLife Listo Solemne 2\BeLife\obj\Debug\BeLife.ListarHogar.resources
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\Solemne 2 COMPLETO Ffrench y Aedo (1)\BeLife Listo Solemne 2\BeLife\obj\Debug\BeLife.MainHogar.resources
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\Solemne 2 COMPLETO Ffrench y Aedo (1)\BeLife Listo Solemne 2\BeLife\obj\Debug\BeLife.ModificarHogar.resources
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\Solemne 2 COMPLETO Ffrench y Aedo (1)\BeLife Listo Solemne 2\BeLife\obj\Debug\BeLife.BuscarAuto.resources
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\Solemne 2 COMPLETO Ffrench y Aedo (1)\BeLife Listo Solemne 2\BeLife\obj\Debug\BeLife.MainAutos.resources
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\Solemne 2 COMPLETO Ffrench y Aedo (1)\BeLife Listo Solemne 2\BeLife\obj\Debug\BeLife.VentanaTerminarContratoHogar.resources
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\Solemne 2 COMPLETO Ffrench y Aedo (1)\BeLife Listo Solemne 2\BeLife\obj\Debug\BeLife.SegurosBelifeVentanaContratoSeleccion.resources
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\Solemne 2 COMPLETO Ffrench y Aedo (1)\BeLife Listo Solemne 2\BeLife\obj\Debug\BeLife.SegurosBelifeVentanaListarCliente.resources
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\Solemne 2 COMPLETO Ffrench y Aedo (1)\BeLife Listo Solemne 2\BeLife\obj\Debug\BeLife.EliminarAuto.resources
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\Solemne 2 COMPLETO Ffrench y Aedo (1)\BeLife Listo Solemne 2\BeLife\obj\Debug\BeLife.ModificarAuto.resources
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\Solemne 2 COMPLETO Ffrench y Aedo (1)\BeLife Listo Solemne 2\BeLife\obj\Debug\BeLife.SegurosBelifeCrearHogar.resources
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\Solemne 2 COMPLETO Ffrench y Aedo (1)\BeLife Listo Solemne 2\BeLife\obj\Debug\BeLife.SegurosBelifeCrearAuto.resources
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\Solemne 2 COMPLETO Ffrench y Aedo (1)\BeLife Listo Solemne 2\BeLife\obj\Debug\BeLife.SegurosBelifeVentanaListarAuto.resources
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\Solemne 2 COMPLETO Ffrench y Aedo (1)\BeLife Examen 10-07-18 1.AM\BeLife\bin\Debug\BeLife.exe.config
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\Solemne 2 COMPLETO Ffrench y Aedo (1)\BeLife Examen 10-07-18 1.AM\BeLife\bin\Debug\BeLife.exe
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\Solemne 2 COMPLETO Ffrench y Aedo (1)\BeLife Examen 10-07-18 1.AM\BeLife\bin\Debug\BeLife.pdb
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\Solemne 2 COMPLETO Ffrench y Aedo (1)\BeLife Examen 10-07-18 1.AM\BeLife\bin\Debug\es-CL\BeLife.resources.dll
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\Solemne 2 COMPLETO Ffrench y Aedo (1)\BeLife Examen 10-07-18 1.AM\BeLife\bin\Debug\MetroFramework.Design.dll
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\Solemne 2 COMPLETO Ffrench y Aedo (1)\BeLife Examen 10-07-18 1.AM\BeLife\bin\Debug\MetroFramework.dll
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\Solemne 2 COMPLETO Ffrench y Aedo (1)\BeLife Examen 10-07-18 1.AM\BeLife\bin\Debug\MetroFramework.Fonts.dll
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\Solemne 2 COMPLETO Ffrench y Aedo (1)\BeLife Examen 10-07-18 1.AM\BeLife\obj\Debug\ProyectoBeLife.csprojAssemblyReference.cache
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\Solemne 2 COMPLETO Ffrench y Aedo (1)\BeLife Examen 10-07-18 1.AM\BeLife\obj\Debug\BeLife.VentanaAgregarCliente.resources
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\Solemne 2 COMPLETO Ffrench y Aedo (1)\BeLife Examen 10-07-18 1.AM\BeLife\obj\Debug\BeLife.BuscarHogar.resources
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\Solemne 2 COMPLETO Ffrench y Aedo (1)\BeLife Examen 10-07-18 1.AM\BeLife\obj\Debug\BeLife.EliminarHogar.resources
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\Solemne 2 COMPLETO Ffrench y Aedo (1)\BeLife Examen 10-07-18 1.AM\BeLife\obj\Debug\BeLife.ListarHogar.resources
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\Solemne 2 COMPLETO Ffrench y Aedo (1)\BeLife Examen 10-07-18 1.AM\BeLife\obj\Debug\BeLife.MainHogar.resources
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\Solemne 2 COMPLETO Ffrench y Aedo (1)\BeLife Examen 10-07-18 1.AM\BeLife\obj\Debug\BeLife.ModificarHogar.resources
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\Solemne 2 COMPLETO Ffrench y Aedo (1)\BeLife Examen 10-07-18 1.AM\BeLife\obj\Debug\BeLife.BuscarAuto.resources
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\Solemne 2 COMPLETO Ffrench y Aedo (1)\BeLife Examen 10-07-18 1.AM\BeLife\obj\Debug\BeLife.EliminarAuto.resources
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\Solemne 2 COMPLETO Ffrench y Aedo (1)\BeLife Examen 10-07-18 1.AM\BeLife\obj\Debug\BeLife.MainAutos.resources
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\Solemne 2 COMPLETO Ffrench y Aedo (1)\BeLife Examen 10-07-18 1.AM\BeLife\obj\Debug\BeLife.ModificarAuto.resources
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\Solemne 2 COMPLETO Ffrench y Aedo (1)\BeLife Examen 10-07-18 1.AM\BeLife\obj\Debug\BeLife.VentanaBuscarContrato.resources
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\Solemne 2 COMPLETO Ffrench y Aedo (1)\BeLife Examen 10-07-18 1.AM\BeLife\obj\Debug\BeLife.VentanaClientes.resources
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\Solemne 2 COMPLETO Ffrench y Aedo (1)\BeLife Examen 10-07-18 1.AM\BeLife\obj\Debug\BeLife.VentanaContratos.resources
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\Solemne 2 COMPLETO Ffrench y Aedo (1)\BeLife Examen 10-07-18 1.AM\BeLife\obj\Debug\BeLife.VentanaCrearContrato.resources
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\Solemne 2 COMPLETO Ffrench y Aedo (1)\BeLife Examen 10-07-18 1.AM\BeLife\obj\Debug\BeLife.VentanaEliminarCliente.resources
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\Solemne 2 COMPLETO Ffrench y Aedo (1)\BeLife Examen 10-07-18 1.AM\BeLife\obj\Debug\BeLife.VentanaListadoContratos.resources
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\Solemne 2 COMPLETO Ffrench y Aedo (1)\BeLife Examen 10-07-18 1.AM\BeLife\obj\Debug\BeLife.VentanaMain.resources
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\Solemne 2 COMPLETO Ffrench y Aedo (1)\BeLife Examen 10-07-18 1.AM\BeLife\obj\Debug\BeLife.Properties.Resources.resources
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\Solemne 2 COMPLETO Ffrench y Aedo (1)\BeLife Examen 10-07-18 1.AM\BeLife\obj\Debug\BeLife.VentanaModificarCliente.resources
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\Solemne 2 COMPLETO Ffrench y Aedo (1)\BeLife Examen 10-07-18 1.AM\BeLife\obj\Debug\BeLife.VentanaModificarContrato.resources
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\Solemne 2 COMPLETO Ffrench y Aedo (1)\BeLife Examen 10-07-18 1.AM\BeLife\obj\Debug\BeLife.VentanaTerminarContratoHogar.resources
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\Solemne 2 COMPLETO Ffrench y Aedo (1)\BeLife Examen 10-07-18 1.AM\BeLife\obj\Debug\BeLife.VentanaBuscarCliente.resources
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\Solemne 2 COMPLETO Ffrench y Aedo (1)\BeLife Examen 10-07-18 1.AM\BeLife\obj\Debug\BeLife.SegurosBelifeCrearHogar.resources
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\Solemne 2 COMPLETO Ffrench y Aedo (1)\BeLife Examen 10-07-18 1.AM\BeLife\obj\Debug\BeLife.SegurosBelifeCrearAuto.resources
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\Solemne 2 COMPLETO Ffrench y Aedo (1)\BeLife Examen 10-07-18 1.AM\BeLife\obj\Debug\BeLife.SegurosBelifeVentanaContratoSeleccion.resources
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\Solemne 2 COMPLETO Ffrench y Aedo (1)\BeLife Examen 10-07-18 1.AM\BeLife\obj\Debug\BeLife.SegurosBelifeVentanaListarAuto.resources
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\Solemne 2 COMPLETO Ffrench y Aedo (1)\BeLife Examen 10-07-18 1.AM\BeLife\obj\Debug\BeLife.SegurosBelifeVentanaListarCliente.resources
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\Solemne 2 COMPLETO Ffrench y Aedo (1)\BeLife Examen 10-07-18 1.AM\BeLife\obj\Debug\BeLife.VentanaClientes.es-CL.resources
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\Solemne 2 COMPLETO Ffrench y Aedo (1)\BeLife Examen 10-07-18 1.AM\BeLife\obj\Debug\ProyectoBeLife.csproj.GenerateResource.cache
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\Solemne 2 COMPLETO Ffrench y Aedo (1)\BeLife Examen 10-07-18 1.AM\BeLife\obj\Debug\ProyectoBeLife.csproj.CoreCompileInputs.cache
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\Solemne 2 COMPLETO Ffrench y Aedo (1)\BeLife Examen 10-07-18 1.AM\BeLife\obj\Debug\es-CL\BeLife.resources.dll
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\Solemne 2 COMPLETO Ffrench y Aedo (1)\BeLife Examen 10-07-18 1.AM\BeLife\obj\Debug\ProyectoBeLife.csproj.CopyComplete
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\Solemne 2 COMPLETO Ffrench y Aedo (1)\BeLife Examen 10-07-18 1.AM\BeLife\obj\Debug\BeLife.exe
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\Solemne 2 COMPLETO Ffrench y Aedo (1)\BeLife Examen 10-07-18 1.AM\BeLife\obj\Debug\BeLife.pdb
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\Solemne 2 COMPLETO Ffrench y Aedo (1)\BeLife Examen 11-07-18 00.30.AM\BeLife\bin\Debug\BeLife.exe.config
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\Solemne 2 COMPLETO Ffrench y Aedo (1)\BeLife Examen 11-07-18 00.30.AM\BeLife\bin\Debug\BeLife.exe
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\Solemne 2 COMPLETO Ffrench y Aedo (1)\BeLife Examen 11-07-18 00.30.AM\BeLife\bin\Debug\BeLife.pdb
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\Solemne 2 COMPLETO Ffrench y Aedo (1)\BeLife Examen 11-07-18 00.30.AM\BeLife\bin\Debug\es-CL\BeLife.resources.dll
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\Solemne 2 COMPLETO Ffrench y Aedo (1)\BeLife Examen 11-07-18 00.30.AM\BeLife\bin\Debug\MetroFramework.Design.dll
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\Solemne 2 COMPLETO Ffrench y Aedo (1)\BeLife Examen 11-07-18 00.30.AM\BeLife\bin\Debug\MetroFramework.dll
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\Solemne 2 COMPLETO Ffrench y Aedo (1)\BeLife Examen 11-07-18 00.30.AM\BeLife\bin\Debug\MetroFramework.Fonts.dll
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\Solemne 2 COMPLETO Ffrench y Aedo (1)\BeLife Examen 11-07-18 00.30.AM\BeLife\obj\Debug\ProyectoBeLife.csprojAssemblyReference.cache
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\Solemne 2 COMPLETO Ffrench y Aedo (1)\BeLife Examen 11-07-18 00.30.AM\BeLife\obj\Debug\BeLife.VentanaAgregarCliente.resources
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\Solemne 2 COMPLETO Ffrench y Aedo (1)\BeLife Examen 11-07-18 00.30.AM\BeLife\obj\Debug\BeLife.BuscarHogar.resources
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\Solemne 2 COMPLETO Ffrench y Aedo (1)\BeLife Examen 11-07-18 00.30.AM\BeLife\obj\Debug\BeLife.EliminarHogar.resources
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\Solemne 2 COMPLETO Ffrench y Aedo (1)\BeLife Examen 11-07-18 00.30.AM\BeLife\obj\Debug\BeLife.ListarHogar.resources
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\Solemne 2 COMPLETO Ffrench y Aedo (1)\BeLife Examen 11-07-18 00.30.AM\BeLife\obj\Debug\BeLife.MainHogar.resources
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\Solemne 2 COMPLETO Ffrench y Aedo (1)\BeLife Examen 11-07-18 00.30.AM\BeLife\obj\Debug\BeLife.ModificarHogar.resources
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\Solemne 2 COMPLETO Ffrench y Aedo (1)\BeLife Examen 11-07-18 00.30.AM\BeLife\obj\Debug\BeLife.BuscarAuto.resources
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\Solemne 2 COMPLETO Ffrench y Aedo (1)\BeLife Examen 11-07-18 00.30.AM\BeLife\obj\Debug\BeLife.EliminarAuto.resources
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\Solemne 2 COMPLETO Ffrench y Aedo (1)\BeLife Examen 11-07-18 00.30.AM\BeLife\obj\Debug\BeLife.MainAutos.resources
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\Solemne 2 COMPLETO Ffrench y Aedo (1)\BeLife Examen 11-07-18 00.30.AM\BeLife\obj\Debug\BeLife.ModificarAuto.resources
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\Solemne 2 COMPLETO Ffrench y Aedo (1)\BeLife Examen 11-07-18 00.30.AM\BeLife\obj\Debug\BeLife.VentanaBuscarContrato.resources
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\Solemne 2 COMPLETO Ffrench y Aedo (1)\BeLife Examen 11-07-18 00.30.AM\BeLife\obj\Debug\BeLife.VentanaClientes.resources
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\Solemne 2 COMPLETO Ffrench y Aedo (1)\BeLife Examen 11-07-18 00.30.AM\BeLife\obj\Debug\BeLife.VentanaContratos.resources
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\Solemne 2 COMPLETO Ffrench y Aedo (1)\BeLife Examen 11-07-18 00.30.AM\BeLife\obj\Debug\BeLife.VentanaCrearContrato.resources
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\Solemne 2 COMPLETO Ffrench y Aedo (1)\BeLife Examen 11-07-18 00.30.AM\BeLife\obj\Debug\BeLife.VentanaEliminarCliente.resources
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\Solemne 2 COMPLETO Ffrench y Aedo (1)\BeLife Examen 11-07-18 00.30.AM\BeLife\obj\Debug\BeLife.VentanaListadoContratos.resources
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\Solemne 2 COMPLETO Ffrench y Aedo (1)\BeLife Examen 11-07-18 00.30.AM\BeLife\obj\Debug\BeLife.VentanaMain.resources
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\Solemne 2 COMPLETO Ffrench y Aedo (1)\BeLife Examen 11-07-18 00.30.AM\BeLife\obj\Debug\BeLife.Properties.Resources.resources
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\Solemne 2 COMPLETO Ffrench y Aedo (1)\BeLife Examen 11-07-18 00.30.AM\BeLife\obj\Debug\BeLife.VentanaModificarCliente.resources
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\Solemne 2 COMPLETO Ffrench y Aedo (1)\BeLife Examen 11-07-18 00.30.AM\BeLife\obj\Debug\BeLife.VentanaModificarContrato.resources
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\Solemne 2 COMPLETO Ffrench y Aedo (1)\BeLife Examen 11-07-18 00.30.AM\BeLife\obj\Debug\BeLife.VentanaTerminarContratoHogar.resources
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\Solemne 2 COMPLETO Ffrench y Aedo (1)\BeLife Examen 11-07-18 00.30.AM\BeLife\obj\Debug\BeLife.VentanaBuscarCliente.resources
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\Solemne 2 COMPLETO Ffrench y Aedo (1)\BeLife Examen 11-07-18 00.30.AM\BeLife\obj\Debug\BeLife.SegurosBelifeCrearHogar.resources
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\Solemne 2 COMPLETO Ffrench y Aedo (1)\BeLife Examen 11-07-18 00.30.AM\BeLife\obj\Debug\BeLife.SegurosBelifeCrearAuto.resources
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\Solemne 2 COMPLETO Ffrench y Aedo (1)\BeLife Examen 11-07-18 00.30.AM\BeLife\obj\Debug\BeLife.SegurosBelifeVentanaContratoSeleccion.resources
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\Solemne 2 COMPLETO Ffrench y Aedo (1)\BeLife Examen 11-07-18 00.30.AM\BeLife\obj\Debug\BeLife.SegurosBelifeVentanaListarAuto.resources
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\Solemne 2 COMPLETO Ffrench y Aedo (1)\BeLife Examen 11-07-18 00.30.AM\BeLife\obj\Debug\BeLife.SegurosBelifeVentanaListarCliente.resources
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\Solemne 2 COMPLETO Ffrench y Aedo (1)\BeLife Examen 11-07-18 00.30.AM\BeLife\obj\Debug\BeLife.VentanaClientes.es-CL.resources
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\Solemne 2 COMPLETO Ffrench y Aedo (1)\BeLife Examen 11-07-18 00.30.AM\BeLife\obj\Debug\ProyectoBeLife.csproj.GenerateResource.cache
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\Solemne 2 COMPLETO Ffrench y Aedo (1)\BeLife Examen 11-07-18 00.30.AM\BeLife\obj\Debug\ProyectoBeLife.csproj.CoreCompileInputs.cache
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\Solemne 2 COMPLETO Ffrench y Aedo (1)\BeLife Examen 11-07-18 00.30.AM\BeLife\obj\Debug\es-CL\BeLife.resources.dll
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\Solemne 2 COMPLETO Ffrench y Aedo (1)\BeLife Examen 11-07-18 00.30.AM\BeLife\obj\Debug\ProyectoBeLife.csproj.CopyComplete
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\Solemne 2 COMPLETO Ffrench y Aedo (1)\BeLife Examen 11-07-18 00.30.AM\BeLife\obj\Debug\BeLife.exe
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\Solemne 2 COMPLETO Ffrench y Aedo (1)\BeLife Examen 11-07-18 00.30.AM\BeLife\obj\Debug\BeLife.pdb
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\Solemne 2 COMPLETO Ffrench y Aedo (1)\BeLife Examen 11-07-18 00.30.AM\BeLife\obj\Debug\BeLife.SegurosBelifeVentanaAgregarAuto.resources
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\BeLife Examen 11-07-18 INTERFAZ AVANCES 8 PM\BeLife\obj\Debug\ProyectoBeLife.csprojAssemblyReference.cache
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\BeLife Examen 11-07-18 INTERFAZ AVANCES 8 PM\BeLife\obj\Debug\BeLife.VentanaAgregarCliente.resources
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\BeLife Examen 11-07-18 INTERFAZ AVANCES 8 PM\BeLife\obj\Debug\BeLife.BuscarHogar.resources
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\BeLife Examen 11-07-18 INTERFAZ AVANCES 8 PM\BeLife\obj\Debug\BeLife.EliminarHogar.resources
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\BeLife Examen 11-07-18 INTERFAZ AVANCES 8 PM\BeLife\obj\Debug\BeLife.ListarHogar.resources
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\BeLife Examen 11-07-18 INTERFAZ AVANCES 8 PM\BeLife\obj\Debug\BeLife.MainHogar.resources
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\BeLife Examen 11-07-18 INTERFAZ AVANCES 8 PM\BeLife\obj\Debug\BeLife.ModificarHogar.resources
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\BeLife Examen 11-07-18 INTERFAZ AVANCES 8 PM\BeLife\obj\Debug\BeLife.BuscarAuto.resources
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\BeLife Examen 11-07-18 INTERFAZ AVANCES 8 PM\BeLife\obj\Debug\BeLife.EliminarAuto.resources
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\BeLife Examen 11-07-18 INTERFAZ AVANCES 8 PM\BeLife\obj\Debug\BeLife.MainAutos.resources
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\BeLife Examen 11-07-18 INTERFAZ AVANCES 8 PM\BeLife\obj\Debug\BeLife.ModificarAuto.resources
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\BeLife Examen 11-07-18 INTERFAZ AVANCES 8 PM\BeLife\obj\Debug\BeLife.VentanaBuscarContrato.resources
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\BeLife Examen 11-07-18 INTERFAZ AVANCES 8 PM\BeLife\obj\Debug\BeLife.VentanaClientes.resources
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\BeLife Examen 11-07-18 INTERFAZ AVANCES 8 PM\BeLife\obj\Debug\BeLife.VentanaContratos.resources
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\BeLife Examen 11-07-18 INTERFAZ AVANCES 8 PM\BeLife\obj\Debug\BeLife.VentanaCrearContrato.resources
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\BeLife Examen 11-07-18 INTERFAZ AVANCES 8 PM\BeLife\obj\Debug\BeLife.VentanaEliminarCliente.resources
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\BeLife Examen 11-07-18 INTERFAZ AVANCES 8 PM\BeLife\obj\Debug\BeLife.VentanaListadoContratos.resources
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\BeLife Examen 11-07-18 INTERFAZ AVANCES 8 PM\BeLife\obj\Debug\BeLife.VentanaMain.resources
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\BeLife Examen 11-07-18 INTERFAZ AVANCES 8 PM\BeLife\obj\Debug\BeLife.Properties.Resources.resources
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\BeLife Examen 11-07-18 INTERFAZ AVANCES 8 PM\BeLife\obj\Debug\BeLife.VentanaModificarCliente.resources
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\BeLife Examen 11-07-18 INTERFAZ AVANCES 8 PM\BeLife\obj\Debug\BeLife.VentanaModificarContrato.resources
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\BeLife Examen 11-07-18 INTERFAZ AVANCES 8 PM\BeLife\obj\Debug\BeLife.VentanaTerminarContratoHogar.resources
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\BeLife Examen 11-07-18 INTERFAZ AVANCES 8 PM\BeLife\obj\Debug\BeLife.VentanaBuscarCliente.resources
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\BeLife Examen 11-07-18 INTERFAZ AVANCES 8 PM\BeLife\obj\Debug\BeLife.SegurosBelifeCrearHogar.resources
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\BeLife Examen 11-07-18 INTERFAZ AVANCES 8 PM\BeLife\obj\Debug\BeLife.SegurosBeLifeRegistrarVehiculo.resources
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\BeLife Examen 11-07-18 INTERFAZ AVANCES 8 PM\BeLife\obj\Debug\BeLife.SegurosBeLifeRegistrarVivienda.resources
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\BeLife Examen 11-07-18 INTERFAZ AVANCES 8 PM\BeLife\obj\Debug\BeLife.SegurosBeLifeSeleccionarRegistrar.resources
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\BeLife Examen 11-07-18 INTERFAZ AVANCES 8 PM\BeLife\obj\Debug\BeLife.SegurosBelifeVentanaAgregarAuto.resources
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\BeLife Examen 11-07-18 INTERFAZ AVANCES 8 PM\BeLife\obj\Debug\BeLife.SegurosBelifeVentanaListarAuto.resources
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\BeLife Examen 11-07-18 INTERFAZ AVANCES 8 PM\BeLife\obj\Debug\BeLife.SegurosBelifeVentanaListarCliente.resources
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\BeLife Examen 11-07-18 INTERFAZ AVANCES 8 PM\BeLife\obj\Debug\BeLife.VentanaClientes.es-CL.resources
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\BeLife Examen 11-07-18 INTERFAZ AVANCES 8 PM\BeLife\obj\Debug\ProyectoBeLife.csproj.GenerateResource.cache
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\BeLife Examen 11-07-18 INTERFAZ AVANCES 8 PM\BeLife\obj\Debug\ProyectoBeLife.csproj.CoreCompileInputs.cache
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\BeLife Examen 11-07-18 INTERFAZ AVANCES 8 PM\BeLife\obj\Debug\BeLife.exe
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\BeLife Examen 11-07-18 INTERFAZ AVANCES 8 PM\BeLife\obj\Debug\BeLife.pdb
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\BeLife Examen 11-07-18 INTERFAZ AVANCES 8 PM\BeLife\bin\Debug\BeLife.exe.config
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\BeLife Examen 11-07-18 INTERFAZ AVANCES 8 PM\BeLife\bin\Debug\BeLife.exe
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\BeLife Examen 11-07-18 INTERFAZ AVANCES 8 PM\BeLife\bin\Debug\BeLife.pdb
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\BeLife Examen 11-07-18 INTERFAZ AVANCES 8 PM\BeLife\bin\Debug\es-CL\BeLife.resources.dll
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\BeLife Examen 11-07-18 INTERFAZ AVANCES 8 PM\BeLife\bin\Debug\MetroFramework.Design.dll
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\BeLife Examen 11-07-18 INTERFAZ AVANCES 8 PM\BeLife\bin\Debug\MetroFramework.dll
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\BeLife Examen 11-07-18 INTERFAZ AVANCES 8 PM\BeLife\bin\Debug\MetroFramework.Fonts.dll
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\BeLife Examen 11-07-18 INTERFAZ AVANCES 8 PM\BeLife\obj\Debug\es-CL\BeLife.resources.dll
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\BeLife Examen 11-07-18 INTERFAZ AVANCES 8 PM\BeLife\obj\Debug\ProyectoBeLife.csproj.CopyComplete
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\BeLife Examen 11-07-18 INTERFAZ AVANCES 8 PM\BeLife\obj\Debug\BeLife.SegurosBelifeAgregarContratos.resources
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\BeLife Examen 11-07-18 INTERFAZ AVANCES 22.53 PM\BeLife\bin\Debug\BeLife.exe.config
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\BeLife Examen 11-07-18 INTERFAZ AVANCES 22.53 PM\BeLife\bin\Debug\BeLife.exe
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\BeLife Examen 11-07-18 INTERFAZ AVANCES 22.53 PM\BeLife\bin\Debug\BeLife.pdb
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\BeLife Examen 11-07-18 INTERFAZ AVANCES 22.53 PM\BeLife\bin\Debug\es-CL\BeLife.resources.dll
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\BeLife Examen 11-07-18 INTERFAZ AVANCES 22.53 PM\BeLife\bin\Debug\MetroFramework.Design.dll
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\BeLife Examen 11-07-18 INTERFAZ AVANCES 22.53 PM\BeLife\bin\Debug\MetroFramework.dll
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\BeLife Examen 11-07-18 INTERFAZ AVANCES 22.53 PM\BeLife\bin\Debug\MetroFramework.Fonts.dll
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\BeLife Examen 11-07-18 INTERFAZ AVANCES 22.53 PM\BeLife\obj\Debug\ProyectoBeLife.csprojAssemblyReference.cache
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\BeLife Examen 11-07-18 INTERFAZ AVANCES 22.53 PM\BeLife\obj\Debug\BeLife.VentanaAgregarCliente.resources
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\BeLife Examen 11-07-18 INTERFAZ AVANCES 22.53 PM\BeLife\obj\Debug\BeLife.BuscarHogar.resources
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\BeLife Examen 11-07-18 INTERFAZ AVANCES 22.53 PM\BeLife\obj\Debug\BeLife.EliminarHogar.resources
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\BeLife Examen 11-07-18 INTERFAZ AVANCES 22.53 PM\BeLife\obj\Debug\BeLife.ListarHogar.resources
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\BeLife Examen 11-07-18 INTERFAZ AVANCES 22.53 PM\BeLife\obj\Debug\BeLife.MainHogar.resources
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\BeLife Examen 11-07-18 INTERFAZ AVANCES 22.53 PM\BeLife\obj\Debug\BeLife.ModificarHogar.resources
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\BeLife Examen 11-07-18 INTERFAZ AVANCES 22.53 PM\BeLife\obj\Debug\BeLife.BuscarAuto.resources
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\BeLife Examen 11-07-18 INTERFAZ AVANCES 22.53 PM\BeLife\obj\Debug\BeLife.EliminarAuto.resources
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\BeLife Examen 11-07-18 INTERFAZ AVANCES 22.53 PM\BeLife\obj\Debug\BeLife.MainAutos.resources
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\BeLife Examen 11-07-18 INTERFAZ AVANCES 22.53 PM\BeLife\obj\Debug\BeLife.ModificarAuto.resources
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\BeLife Examen 11-07-18 INTERFAZ AVANCES 22.53 PM\BeLife\obj\Debug\BeLife.VentanaBuscarContrato.resources
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\BeLife Examen 11-07-18 INTERFAZ AVANCES 22.53 PM\BeLife\obj\Debug\BeLife.VentanaClientes.resources
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\BeLife Examen 11-07-18 INTERFAZ AVANCES 22.53 PM\BeLife\obj\Debug\BeLife.VentanaContratos.resources
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\BeLife Examen 11-07-18 INTERFAZ AVANCES 22.53 PM\BeLife\obj\Debug\BeLife.VentanaCrearContrato.resources
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\BeLife Examen 11-07-18 INTERFAZ AVANCES 22.53 PM\BeLife\obj\Debug\BeLife.VentanaEliminarCliente.resources
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\BeLife Examen 11-07-18 INTERFAZ AVANCES 22.53 PM\BeLife\obj\Debug\BeLife.VentanaListadoContratos.resources
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\BeLife Examen 11-07-18 INTERFAZ AVANCES 22.53 PM\BeLife\obj\Debug\BeLife.VentanaMain.resources
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\BeLife Examen 11-07-18 INTERFAZ AVANCES 22.53 PM\BeLife\obj\Debug\BeLife.Properties.Resources.resources
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\BeLife Examen 11-07-18 INTERFAZ AVANCES 22.53 PM\BeLife\obj\Debug\BeLife.VentanaModificarCliente.resources
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\BeLife Examen 11-07-18 INTERFAZ AVANCES 22.53 PM\BeLife\obj\Debug\BeLife.VentanaModificarContrato.resources
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\BeLife Examen 11-07-18 INTERFAZ AVANCES 22.53 PM\BeLife\obj\Debug\BeLife.VentanaTerminarContratoHogar.resources
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\BeLife Examen 11-07-18 INTERFAZ AVANCES 22.53 PM\BeLife\obj\Debug\BeLife.VentanaBuscarCliente.resources
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\BeLife Examen 11-07-18 INTERFAZ AVANCES 22.53 PM\BeLife\obj\Debug\BeLife.SegurosBelifeCrearHogar.resources
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\BeLife Examen 11-07-18 INTERFAZ AVANCES 22.53 PM\BeLife\obj\Debug\BeLife.SegurosBeLifeRegistrarVehiculo.resources
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\BeLife Examen 11-07-18 INTERFAZ AVANCES 22.53 PM\BeLife\obj\Debug\BeLife.SegurosBeLifeRegistrarVivienda.resources
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\BeLife Examen 11-07-18 INTERFAZ AVANCES 22.53 PM\BeLife\obj\Debug\BeLife.SegurosBeLifeSeleccionarRegistrar.resources
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\BeLife Examen 11-07-18 INTERFAZ AVANCES 22.53 PM\BeLife\obj\Debug\BeLife.SegurosBelifeVentanaAgregarAuto.resources
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\BeLife Examen 11-07-18 INTERFAZ AVANCES 22.53 PM\BeLife\obj\Debug\BeLife.SegurosBelifeVentanaListarAuto.resources
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\BeLife Examen 11-07-18 INTERFAZ AVANCES 22.53 PM\BeLife\obj\Debug\BeLife.SegurosBelifeAgregarContratos.resources
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\BeLife Examen 11-07-18 INTERFAZ AVANCES 22.53 PM\BeLife\obj\Debug\BeLife.SegurosBelifeVentanaListarCliente.resources
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\BeLife Examen 11-07-18 INTERFAZ AVANCES 22.53 PM\BeLife\obj\Debug\BeLife.VentanaClientes.es-CL.resources
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\BeLife Examen 11-07-18 INTERFAZ AVANCES 22.53 PM\BeLife\obj\Debug\ProyectoBeLife.csproj.GenerateResource.cache
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\BeLife Examen 11-07-18 INTERFAZ AVANCES 22.53 PM\BeLife\obj\Debug\ProyectoBeLife.csproj.CoreCompileInputs.cache
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\BeLife Examen 11-07-18 INTERFAZ AVANCES 22.53 PM\BeLife\obj\Debug\es-CL\BeLife.resources.dll
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\BeLife Examen 11-07-18 INTERFAZ AVANCES 22.53 PM\BeLife\obj\Debug\ProyectoBeLife.csproj.CopyComplete
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\BeLife Examen 11-07-18 INTERFAZ AVANCES 22.53 PM\BeLife\obj\Debug\BeLife.exe
+D:\Documentos\Mio\DUOC\2018\Desarrollo de Software y escritorio\Examen\BeLife Examen 11-07-18 INTERFAZ AVANCES 22.53 PM\BeLife\obj\Debug\BeLife.pdb
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\BeLife Examen 11-07-18 INTERFAZ AVANCES 22.53 PM\BeLife\obj\Debug\ProyectoBeLife.csprojAssemblyReference.cache
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\BeLife Examen 11-07-18 INTERFAZ AVANCES 22.53 PM\BeLife\obj\Debug\BeLife.VentanaAgregarCliente.resources
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\BeLife Examen 11-07-18 INTERFAZ AVANCES 22.53 PM\BeLife\obj\Debug\BeLife.BuscarHogar.resources
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\BeLife Examen 11-07-18 INTERFAZ AVANCES 22.53 PM\BeLife\obj\Debug\BeLife.EliminarHogar.resources
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\BeLife Examen 11-07-18 INTERFAZ AVANCES 22.53 PM\BeLife\obj\Debug\BeLife.ListarHogar.resources
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\BeLife Examen 11-07-18 INTERFAZ AVANCES 22.53 PM\BeLife\obj\Debug\BeLife.MainHogar.resources
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\BeLife Examen 11-07-18 INTERFAZ AVANCES 22.53 PM\BeLife\obj\Debug\BeLife.ModificarHogar.resources
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\BeLife Examen 11-07-18 INTERFAZ AVANCES 22.53 PM\BeLife\obj\Debug\BeLife.BuscarAuto.resources
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\BeLife Examen 11-07-18 INTERFAZ AVANCES 22.53 PM\BeLife\obj\Debug\BeLife.EliminarAuto.resources
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\BeLife Examen 11-07-18 INTERFAZ AVANCES 22.53 PM\BeLife\obj\Debug\BeLife.MainAutos.resources
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\BeLife Examen 11-07-18 INTERFAZ AVANCES 22.53 PM\BeLife\obj\Debug\BeLife.ModificarAuto.resources
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\BeLife Examen 11-07-18 INTERFAZ AVANCES 22.53 PM\BeLife\obj\Debug\BeLife.VentanaBuscarContrato.resources
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\BeLife Examen 11-07-18 INTERFAZ AVANCES 22.53 PM\BeLife\obj\Debug\BeLife.VentanaClientes.resources
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\BeLife Examen 11-07-18 INTERFAZ AVANCES 22.53 PM\BeLife\obj\Debug\BeLife.VentanaContratos.resources
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\BeLife Examen 11-07-18 INTERFAZ AVANCES 22.53 PM\BeLife\obj\Debug\BeLife.VentanaCrearContrato.resources
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\BeLife Examen 11-07-18 INTERFAZ AVANCES 22.53 PM\BeLife\obj\Debug\BeLife.VentanaEliminarCliente.resources
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\BeLife Examen 11-07-18 INTERFAZ AVANCES 22.53 PM\BeLife\obj\Debug\BeLife.VentanaListadoContratos.resources
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\BeLife Examen 11-07-18 INTERFAZ AVANCES 22.53 PM\BeLife\obj\Debug\BeLife.VentanaMain.resources
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\BeLife Examen 11-07-18 INTERFAZ AVANCES 22.53 PM\BeLife\obj\Debug\BeLife.Properties.Resources.resources
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\BeLife Examen 11-07-18 INTERFAZ AVANCES 22.53 PM\BeLife\obj\Debug\BeLife.VentanaModificarCliente.resources
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\BeLife Examen 11-07-18 INTERFAZ AVANCES 22.53 PM\BeLife\obj\Debug\BeLife.VentanaModificarContrato.resources
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\BeLife Examen 11-07-18 INTERFAZ AVANCES 22.53 PM\BeLife\obj\Debug\BeLife.VentanaTerminarContratoHogar.resources
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\BeLife Examen 11-07-18 INTERFAZ AVANCES 22.53 PM\BeLife\obj\Debug\BeLife.VentanaBuscarCliente.resources
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\BeLife Examen 11-07-18 INTERFAZ AVANCES 22.53 PM\BeLife\obj\Debug\BeLife.SegurosBelifeCrearHogar.resources
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\BeLife Examen 11-07-18 INTERFAZ AVANCES 22.53 PM\BeLife\obj\Debug\BeLife.SegurosBeLifeRegistrarVehiculo.resources
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\BeLife Examen 11-07-18 INTERFAZ AVANCES 22.53 PM\BeLife\obj\Debug\BeLife.SegurosBeLifeRegistrarVivienda.resources
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\BeLife Examen 11-07-18 INTERFAZ AVANCES 22.53 PM\BeLife\obj\Debug\BeLife.SegurosBeLifeSeleccionarRegistrar.resources
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\BeLife Examen 11-07-18 INTERFAZ AVANCES 22.53 PM\BeLife\obj\Debug\BeLife.SegurosBelifeVentanaAgregarAuto.resources
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\BeLife Examen 11-07-18 INTERFAZ AVANCES 22.53 PM\BeLife\obj\Debug\BeLife.SegurosBelifeVentanaListarAuto.resources
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\BeLife Examen 11-07-18 INTERFAZ AVANCES 22.53 PM\BeLife\obj\Debug\BeLife.SegurosBelifeAgregarContratos.resources
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\BeLife Examen 11-07-18 INTERFAZ AVANCES 22.53 PM\BeLife\obj\Debug\BeLife.SegurosBelifeVentanaListarCliente.resources
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\BeLife Examen 11-07-18 INTERFAZ AVANCES 22.53 PM\BeLife\obj\Debug\BeLife.VentanaClientes.es-CL.resources
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\BeLife Examen 11-07-18 INTERFAZ AVANCES 22.53 PM\BeLife\obj\Debug\ProyectoBeLife.csproj.GenerateResource.cache
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\BeLife Examen 11-07-18 INTERFAZ AVANCES 22.53 PM\BeLife\obj\Debug\ProyectoBeLife.csproj.CoreCompileInputs.cache
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\BeLife Examen 11-07-18 INTERFAZ AVANCES 22.53 PM\BeLife\obj\Debug\BeLife.exe
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\BeLife Examen 11-07-18 INTERFAZ AVANCES 22.53 PM\BeLife\obj\Debug\BeLife.pdb
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\BeLife Examen 11-07-18 INTERFAZ AVANCES 22.53 PM\BeLife\bin\Debug\BeLife.exe.config
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\BeLife Examen 11-07-18 INTERFAZ AVANCES 22.53 PM\BeLife\bin\Debug\BeLife.exe
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\BeLife Examen 11-07-18 INTERFAZ AVANCES 22.53 PM\BeLife\bin\Debug\BeLife.pdb
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\BeLife Examen 11-07-18 INTERFAZ AVANCES 22.53 PM\BeLife\bin\Debug\es-CL\BeLife.resources.dll
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\BeLife Examen 11-07-18 INTERFAZ AVANCES 22.53 PM\BeLife\bin\Debug\MetroFramework.Design.dll
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\BeLife Examen 11-07-18 INTERFAZ AVANCES 22.53 PM\BeLife\bin\Debug\MetroFramework.dll
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\BeLife Examen 11-07-18 INTERFAZ AVANCES 22.53 PM\BeLife\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\BeLife Examen 11-07-18 INTERFAZ AVANCES 22.53 PM\BeLife\obj\Debug\es-CL\BeLife.resources.dll
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\BeLife Examen 11-07-18 INTERFAZ AVANCES 22.53 PM\BeLife\obj\Debug\ProyectoBeLife.csproj.CopyComplete
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\BeLife Examen 12-07-18 3.15 AM\BeLife\bin\Debug\BeLife.exe.config
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\BeLife Examen 12-07-18 3.15 AM\BeLife\bin\Debug\BeLife.exe
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\BeLife Examen 12-07-18 3.15 AM\BeLife\bin\Debug\BeLife.pdb
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\BeLife Examen 12-07-18 3.15 AM\BeLife\bin\Debug\es-CL\BeLife.resources.dll
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\BeLife Examen 12-07-18 3.15 AM\BeLife\bin\Debug\MetroFramework.Design.dll
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\BeLife Examen 12-07-18 3.15 AM\BeLife\bin\Debug\MetroFramework.dll
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\BeLife Examen 12-07-18 3.15 AM\BeLife\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\BeLife Examen 12-07-18 3.15 AM\BeLife\obj\Debug\ProyectoBeLife.csprojAssemblyReference.cache
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\BeLife Examen 12-07-18 3.15 AM\BeLife\obj\Debug\BeLife.VentanaAgregarCliente.resources
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\BeLife Examen 12-07-18 3.15 AM\BeLife\obj\Debug\BeLife.BuscarHogar.resources
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\BeLife Examen 12-07-18 3.15 AM\BeLife\obj\Debug\BeLife.EliminarHogar.resources
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\BeLife Examen 12-07-18 3.15 AM\BeLife\obj\Debug\BeLife.ListarHogar.resources
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\BeLife Examen 12-07-18 3.15 AM\BeLife\obj\Debug\BeLife.MainHogar.resources
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\BeLife Examen 12-07-18 3.15 AM\BeLife\obj\Debug\BeLife.ModificarHogar.resources
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\BeLife Examen 12-07-18 3.15 AM\BeLife\obj\Debug\BeLife.BuscarAuto.resources
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\BeLife Examen 12-07-18 3.15 AM\BeLife\obj\Debug\BeLife.EliminarAuto.resources
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\BeLife Examen 12-07-18 3.15 AM\BeLife\obj\Debug\BeLife.MainAutos.resources
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\BeLife Examen 12-07-18 3.15 AM\BeLife\obj\Debug\BeLife.ModificarAuto.resources
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\BeLife Examen 12-07-18 3.15 AM\BeLife\obj\Debug\BeLife.VentanaBuscarContrato.resources
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\BeLife Examen 12-07-18 3.15 AM\BeLife\obj\Debug\BeLife.VentanaClientes.resources
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\BeLife Examen 12-07-18 3.15 AM\BeLife\obj\Debug\BeLife.VentanaContratos.resources
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\BeLife Examen 12-07-18 3.15 AM\BeLife\obj\Debug\BeLife.VentanaCrearContrato.resources
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\BeLife Examen 12-07-18 3.15 AM\BeLife\obj\Debug\BeLife.VentanaEliminarCliente.resources
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\BeLife Examen 12-07-18 3.15 AM\BeLife\obj\Debug\BeLife.VentanaListadoContratos.resources
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\BeLife Examen 12-07-18 3.15 AM\BeLife\obj\Debug\BeLife.VentanaMain.resources
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\BeLife Examen 12-07-18 3.15 AM\BeLife\obj\Debug\BeLife.Properties.Resources.resources
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\BeLife Examen 12-07-18 3.15 AM\BeLife\obj\Debug\BeLife.VentanaModificarCliente.resources
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\BeLife Examen 12-07-18 3.15 AM\BeLife\obj\Debug\BeLife.VentanaModificarContrato.resources
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\BeLife Examen 12-07-18 3.15 AM\BeLife\obj\Debug\BeLife.VentanaTerminarContratoHogar.resources
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\BeLife Examen 12-07-18 3.15 AM\BeLife\obj\Debug\BeLife.VentanaBuscarCliente.resources
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\BeLife Examen 12-07-18 3.15 AM\BeLife\obj\Debug\BeLife.SegurosBelifeCrearHogar.resources
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\BeLife Examen 12-07-18 3.15 AM\BeLife\obj\Debug\BeLife.SegurosBeLifeRegistrarVehiculo.resources
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\BeLife Examen 12-07-18 3.15 AM\BeLife\obj\Debug\BeLife.SegurosBeLifeRegistrarVivienda.resources
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\BeLife Examen 12-07-18 3.15 AM\BeLife\obj\Debug\BeLife.SegurosBeLifeSeleccionarRegistrar.resources
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\BeLife Examen 12-07-18 3.15 AM\BeLife\obj\Debug\BeLife.SegurosBelifeVentanaAgregarAuto.resources
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\BeLife Examen 12-07-18 3.15 AM\BeLife\obj\Debug\BeLife.SegurosBelifeVentanaListarAuto.resources
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\BeLife Examen 12-07-18 3.15 AM\BeLife\obj\Debug\BeLife.SegurosBelifeAgregarContratos.resources
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\BeLife Examen 12-07-18 3.15 AM\BeLife\obj\Debug\BeLife.SegurosBelifeVentanaListarCliente.resources
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\BeLife Examen 12-07-18 3.15 AM\BeLife\obj\Debug\BeLife.VentanaClientes.es-CL.resources
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\BeLife Examen 12-07-18 3.15 AM\BeLife\obj\Debug\ProyectoBeLife.csproj.GenerateResource.cache
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\BeLife Examen 12-07-18 3.15 AM\BeLife\obj\Debug\ProyectoBeLife.csproj.CoreCompileInputs.cache
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\BeLife Examen 12-07-18 3.15 AM\BeLife\obj\Debug\es-CL\BeLife.resources.dll
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\BeLife Examen 12-07-18 3.15 AM\BeLife\obj\Debug\ProyectoBeLife.csproj.CopyComplete
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\BeLife Examen 12-07-18 3.15 AM\BeLife\obj\Debug\BeLife.exe
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\BeLife Examen 12-07-18 3.15 AM\BeLife\obj\Debug\BeLife.pdb
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\BeLife Examen 12-07-18 7.30 AM\BeLife\bin\Debug\BeLife.exe.config
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\BeLife Examen 12-07-18 7.30 AM\BeLife\bin\Debug\BeLife.exe
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\BeLife Examen 12-07-18 7.30 AM\BeLife\bin\Debug\BeLife.pdb
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\BeLife Examen 12-07-18 7.30 AM\BeLife\bin\Debug\es-CL\BeLife.resources.dll
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\BeLife Examen 12-07-18 7.30 AM\BeLife\bin\Debug\MetroFramework.Design.dll
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\BeLife Examen 12-07-18 7.30 AM\BeLife\bin\Debug\MetroFramework.dll
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\BeLife Examen 12-07-18 7.30 AM\BeLife\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\BeLife Examen 12-07-18 7.30 AM\BeLife\obj\Debug\ProyectoBeLife.csprojAssemblyReference.cache
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\BeLife Examen 12-07-18 7.30 AM\BeLife\obj\Debug\BeLife.VentanaAgregarCliente.resources
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\BeLife Examen 12-07-18 7.30 AM\BeLife\obj\Debug\BeLife.BuscarHogar.resources
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\BeLife Examen 12-07-18 7.30 AM\BeLife\obj\Debug\BeLife.EliminarHogar.resources
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\BeLife Examen 12-07-18 7.30 AM\BeLife\obj\Debug\BeLife.ListarHogar.resources
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\BeLife Examen 12-07-18 7.30 AM\BeLife\obj\Debug\BeLife.MainHogar.resources
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\BeLife Examen 12-07-18 7.30 AM\BeLife\obj\Debug\BeLife.ModificarHogar.resources
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\BeLife Examen 12-07-18 7.30 AM\BeLife\obj\Debug\BeLife.BuscarAuto.resources
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\BeLife Examen 12-07-18 7.30 AM\BeLife\obj\Debug\BeLife.EliminarAuto.resources
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\BeLife Examen 12-07-18 7.30 AM\BeLife\obj\Debug\BeLife.MainAutos.resources
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\BeLife Examen 12-07-18 7.30 AM\BeLife\obj\Debug\BeLife.ModificarAuto.resources
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\BeLife Examen 12-07-18 7.30 AM\BeLife\obj\Debug\BeLife.VentanaBuscarContrato.resources
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\BeLife Examen 12-07-18 7.30 AM\BeLife\obj\Debug\BeLife.VentanaClientes.resources
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\BeLife Examen 12-07-18 7.30 AM\BeLife\obj\Debug\BeLife.VentanaContratos.resources
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\BeLife Examen 12-07-18 7.30 AM\BeLife\obj\Debug\BeLife.VentanaCrearContrato.resources
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\BeLife Examen 12-07-18 7.30 AM\BeLife\obj\Debug\BeLife.VentanaEliminarCliente.resources
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\BeLife Examen 12-07-18 7.30 AM\BeLife\obj\Debug\BeLife.VentanaListadoContratos.resources
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\BeLife Examen 12-07-18 7.30 AM\BeLife\obj\Debug\BeLife.VentanaMain.resources
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\BeLife Examen 12-07-18 7.30 AM\BeLife\obj\Debug\BeLife.Properties.Resources.resources
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\BeLife Examen 12-07-18 7.30 AM\BeLife\obj\Debug\BeLife.VentanaModificarCliente.resources
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\BeLife Examen 12-07-18 7.30 AM\BeLife\obj\Debug\BeLife.VentanaModificarContrato.resources
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\BeLife Examen 12-07-18 7.30 AM\BeLife\obj\Debug\BeLife.VentanaTerminarContratoHogar.resources
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\BeLife Examen 12-07-18 7.30 AM\BeLife\obj\Debug\BeLife.VentanaBuscarCliente.resources
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\BeLife Examen 12-07-18 7.30 AM\BeLife\obj\Debug\BeLife.SegurosBelifeCrearHogar.resources
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\BeLife Examen 12-07-18 7.30 AM\BeLife\obj\Debug\BeLife.SegurosBeLifeRegistrarVehiculo.resources
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\BeLife Examen 12-07-18 7.30 AM\BeLife\obj\Debug\BeLife.SegurosBeLifeRegistrarVivienda.resources
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\BeLife Examen 12-07-18 7.30 AM\BeLife\obj\Debug\BeLife.SegurosBeLifeSeleccionarRegistrar.resources
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\BeLife Examen 12-07-18 7.30 AM\BeLife\obj\Debug\BeLife.SegurosBelifeVentanaAgregarAuto.resources
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\BeLife Examen 12-07-18 7.30 AM\BeLife\obj\Debug\BeLife.SegurosBelifeVentanaListarAuto.resources
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\BeLife Examen 12-07-18 7.30 AM\BeLife\obj\Debug\BeLife.SegurosBelifeAgregarContratos.resources
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\BeLife Examen 12-07-18 7.30 AM\BeLife\obj\Debug\BeLife.SegurosBelifeVentanaListarCliente.resources
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\BeLife Examen 12-07-18 7.30 AM\BeLife\obj\Debug\BeLife.VentanaClientes.es-CL.resources
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\BeLife Examen 12-07-18 7.30 AM\BeLife\obj\Debug\ProyectoBeLife.csproj.GenerateResource.cache
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\BeLife Examen 12-07-18 7.30 AM\BeLife\obj\Debug\ProyectoBeLife.csproj.CoreCompileInputs.cache
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\BeLife Examen 12-07-18 7.30 AM\BeLife\obj\Debug\es-CL\BeLife.resources.dll
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\BeLife Examen 12-07-18 7.30 AM\BeLife\obj\Debug\ProyectoBeLife.csproj.CopyComplete
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\BeLife Examen 12-07-18 7.30 AM\BeLife\obj\Debug\BeLife.exe
+C:\Users\rober\OneDrive\Documentos\Archivos C# Duoc\BeLife Examen 12-07-18 7.30 AM\BeLife\obj\Debug\BeLife.pdb
